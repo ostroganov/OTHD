@@ -1,0 +1,36 @@
+PDB ID	Target	Protein type	UniProt	Structure	pH	Subunit composition
+1qhc	Ribonuclease A	Ribonuclease	P61823	Monomer	5.5	Monomer
+1efy	Poly(ADP-ribose) polymerase	Transferase	P26446	Monomer	8.5	-
+1f4g	Thymidylate synthase	Transferase	P0A884	Homodimer	7	Homodimer
+1rnt	Ribonuclease T1	Ribonuclease	P00651	Monomer	7.4	Monomer
+1eve	Acetylcholinesterase	Hydrolase	P04058	Monomer	5.8	-
+1uy6	Heat shock protein HSP 90-alpha	Hydrolase	P07900	Monomer	6.5	Homodimer
+1eix	Orotidine-5'-P decarboxylase	Lyase	P08244	Homodimer	7.4	Homodimer
+1e66	Acetylcholinesterase	Hydrolase	P04058	Monomer	5.6	-
+1m2z	Glucocorticoid receptor	Nuclear receptor	P04150	Homodimer	8	-
+2qwg	Neuraminidase	Hydrolase	P03472	Monomer	5.9	Homotetramer
+1cx2	Cyclooxygenase-2	Oxidoreductase	Q05769	Homodimer	8	Homodimer
+1kim	Thymidine kinase	Kinase	P03176	Homodimer	7.5	Homodimer
+1o86	Angiotensin-converting enzyme	Hydrolase	P12821	Monomer	4.7	-
+1bxo	Penicillopepsin	Protease	P00798	Monomer	4.6	Monomer
+2oh4	Vascular endothelial growth factor receptor kinase 2	Kinase	P35968	Monomer	7.2	Homodimer
+1fgi	Fibroblast growth factor receptor kinase	Kinase	P11362	Monomer	6.5	Monomer
+4tmn	Thermolysin	Protease	P00800	Monomer	7.4	-
+1sr7	Progesteron receptor	Nuclear receptor	P06401	Homodimer	6.5	Homodimer
+1qpe	Tyrosine-protein kinase Lck	Kinase	P06239	Homodimer	6.5	Homodimer
+1kv2	P38 MAP kinase	Kinase	Q16539	Monomer	7.4	-
+1gj7	Urokinase-type plasminogen activator	Hydrolase	P00749	Monomer	6.5	-
+1stc	cAMP-dependent protein kinase	Kinase	P00517	Monomer	7.4	-
+1m17	Epidermal growth factor receptor kinase	Kinase	P00533	Monomer	7	-
+1l2i	Estrogen receptor	Nuclear receptor	Q61026	Homodimer	8.8	Homodimer
+2src	Tyrosine kinase c-Src.	Kinase	P12931	Monomer	6.5	-
+1c84	Protein tyrosine phosphatase 1B	Hydrolase	P18031	Monomer	7.5	-
+2aa2	Mineralocorticoid receptor	Nuclear receptor	P08235	Monomer	7.5	Homodimer
+1qbo	Trypsin	Protease	P00760	Monomer	7.4	-
+1fm9	Peroxisome proliferator activated receptor gamma	Nuclear receptor	P19793	Homodimer	7.5	Homodimer
+1pro	HIV-1 protease	Protease	P12499	Homodimer	5	Homodimer
+1m4h	Beta-secretase	Protease	P56817	Monomer	6.5	Monomer
+3ert	Estrogen receptor	Nuclear receptor	P03372	Homodimer	7	Homodimer
+1c4v	Thrombin	Protease	P00734	Monomer	7.5	-
+1fjs	Factor Xa	Protease	P00742	Monomer	8	-
+1b5j	Oligopeptide-binding protein	None	P06202	Monomer	5.5	-

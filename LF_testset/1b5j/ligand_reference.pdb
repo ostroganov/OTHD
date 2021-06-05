@@ -1,0 +1,99 @@
+HEADER    PEPTIDE BINDING PROTEIN                 06-JAN-99   1B5J              
+TITLE     OLIGO-PEPTIDE BINDING PROTEIN (OPPA) COMPLEXED
+REMARK   1                                                                      
+REMARK   4                                                                      
+REMARK   4      COMPLIES WITH FORMAT V. 3.20, 10-APR-21                    
+SEQRES   1 B    3  LYS GLN LYS 
+SHEET    1  AA 1 LYS B   0  LYS B   3  0
+CRYST1  109.926   75.446   70.061  90.00  90.00  90.00 P 21 21 21    4          
+MODEL        1
+ATOM      1 N    LYS B   1       6.914  16.494  15.120  1.00  0.00
+ATOM      2 H1   LYS B   1       6.676  16.457  16.091  1.00  0.00
+ATOM      3 H2   LYS B   1       6.487  15.721  14.651  1.00  0.00
+ATOM      4 H3   LYS B   1       7.907  16.446  15.013  1.00  0.00
+ATOM      5 CA   LYS B   1       6.425  17.769  14.533  1.00  0.00
+ATOM      6 HA   LYS B   1       7.147  18.445  14.679  1.00  0.00
+ATOM      7 C    LYS B   1       5.181  18.263  15.242  1.00  0.00
+ATOM      8 O    LYS B   1       4.425  17.465  15.802  1.00  0.00
+ATOM      9 CB   LYS B   1       6.221  17.686  13.008  1.00  0.00
+ATOM     10 HB1  LYS B   1       5.847  18.557  12.690  1.00  0.00
+ATOM     11 HB2  LYS B   1       7.110  17.537  12.576  1.00  0.00
+ATOM     12 CG   LYS B   1       5.276  16.563  12.573  1.00  0.00
+ATOM     13 HG1  LYS B   1       5.611  15.695  12.939  1.00  0.00
+ATOM     14 HG2  LYS B   1       4.364  16.742  12.943  1.00  0.00
+ATOM     15 CD   LYS B   1       5.185  16.461  11.051  1.00  0.00
+ATOM     16 HD1  LYS B   1       4.397  15.891  10.818  1.00  0.00
+ATOM     17 HD2  LYS B   1       5.044  17.378  10.678  1.00  0.00
+ATOM     18 CE   LYS B   1       6.431  15.859  10.401  1.00  0.00
+ATOM     19 HE1  LYS B   1       6.310  15.861   9.408  1.00  0.00
+ATOM     20 HE2  LYS B   1       7.223  16.424  10.633  1.00  0.00
+ATOM     21 NZ   LYS B   1       6.688  14.460  10.854  1.00  0.00
+ATOM     22 HZ1  LYS B   1       5.821  14.013  11.076  1.00  0.00
+ATOM     23 HZ2  LYS B   1       7.141  13.947  10.125  1.00  0.00
+ATOM     24 HZ3  LYS B   1       7.274  14.483  11.664  1.00  0.00
+ATOM     25 N    GLN B   2       5.024  19.586  15.276  1.00  0.00
+ATOM     26 H    GLN B   2       5.706  20.172  14.838  1.00  0.00
+ATOM     27 CA   GLN B   2       3.871  20.200  15.942  1.00  0.00
+ATOM     28 HA   GLN B   2       3.782  19.740  16.825  1.00  0.00
+ATOM     29 C    GLN B   2       2.581  20.054  15.167  1.00  0.00
+ATOM     30 O    GLN B   2       2.467  20.287  13.964  1.00  0.00
+ATOM     31 CB   GLN B   2       4.116  21.731  16.043  1.00  0.00
+ATOM     32 HB1  GLN B   2       4.275  22.103  15.129  1.00  0.00
+ATOM     33 HB2  GLN B   2       3.311  22.172  16.439  1.00  0.00
+ATOM     34 CG   GLN B   2       5.334  22.010  16.926  1.00  0.00
+ATOM     35 HG1  GLN B   2       6.092  21.482  16.543  1.00  0.00
+ATOM     36 HG2  GLN B   2       5.538  22.985  16.835  1.00  0.00
+ATOM     37 CD   GLN B   2       5.301  21.716  18.380  1.00  0.00
+ATOM     38 OE1  GLN B   2       4.394  21.162  18.982  1.00  0.00
+ATOM     39 NE2  GLN B   2       6.390  22.072  19.074  1.00  0.00
+ATOM     40 HE21 GLN B   2       7.160  22.507  18.608  1.00  0.00
+ATOM     41 HE22 GLN B   2       6.433  21.902  20.059  1.00  0.00
+ATOM     42 N    LYS B   3       1.528  19.659  15.901  1.00  0.00
+ATOM     43 H    LYS B   3       1.667  19.474  16.874  1.00  0.00
+ATOM     44 CA   LYS B   3       0.211  19.490  15.351  1.00  0.00
+ATOM     45 HA   LYS B   3       0.219  19.731  14.381  1.00  0.00
+ATOM     46 C    LYS B   3      -0.806  20.395  16.069  1.00  0.00
+ATOM     47 O    LYS B   3      -1.800  20.688  15.375  1.00  0.00
+ATOM     48 CB   LYS B   3      -0.197  18.015  15.578  1.00  0.00
+ATOM     49 HB1  LYS B   3       0.556  17.425  15.287  1.00  0.00
+ATOM     50 HB2  LYS B   3      -0.363  17.873  16.554  1.00  0.00
+ATOM     51 CG   LYS B   3      -1.439  17.629  14.814  1.00  0.00
+ATOM     52 HG1  LYS B   3      -1.690  16.689  15.046  1.00  0.00
+ATOM     53 HG2  LYS B   3      -2.189  18.239  15.072  1.00  0.00
+ATOM     54 CD   LYS B   3      -1.201  17.732  13.318  1.00  0.00
+ATOM     55 HD1  LYS B   3      -1.091  18.690  13.052  1.00  0.00
+ATOM     56 HD2  LYS B   3      -0.377  17.227  13.063  1.00  0.00
+ATOM     57 CE   LYS B   3      -2.438  17.121  12.616  1.00  0.00
+ATOM     58 HE1  LYS B   3      -2.621  16.200  12.961  1.00  0.00
+ATOM     59 HE2  LYS B   3      -3.247  17.690  12.764  1.00  0.00
+ATOM     60 NZ   LYS B   3      -2.082  17.080  11.166  1.00  0.00
+ATOM     61 HZ1  LYS B   3      -1.892  18.006  10.840  1.00  0.00
+ATOM     62 HZ2  LYS B   3      -1.267  16.515  11.034  1.00  0.00
+ATOM     63 HZ3  LYS B   3      -2.847  16.691  10.653  1.00  0.00
+ATOM     64 OXT  LYS B   3      -0.616  20.786  17.243  1.00  0.00
+TER      64      LYS B   3
+CONECT    1    2    3    4    5
+CONECT    5    6    7    9
+CONECT    7    8   25
+CONECT    9   10   11   12
+CONECT   12   13   14   15
+CONECT   15   16   17   18
+CONECT   18   19   20   21
+CONECT   21   22   23   24
+CONECT   25   26   27
+CONECT   27   28   29   31
+CONECT   29   30   42
+CONECT   31   32   33   34
+CONECT   34   35   36   37
+CONECT   37   38   39
+CONECT   39   40   41
+CONECT   42   43   44
+CONECT   44   45   46   48
+CONECT   46   47   64
+CONECT   48   49   50   51
+CONECT   51   52   53   54
+CONECT   54   55   56   57
+CONECT   57   58   59   60
+CONECT   60   61   62   63
+ENDMDL
+END
