@@ -1,0 +1,216 @@
+-------------------------------------------------
+build model version 1808 build 1
+-------------------------------------------------
+
+Input filename: ./CalcDir/1b5j.pdb
+Random seed: 1574614077 11556
+pH for model building: 7
+
+
+Structure contains 23 broken sidechains:
+  X    31  ILE
+  X    49  ILE
+  X   118  ILE
+  X   121  ILE
+  X   124  ILE
+  X   125  ILE
+  X   185  ILE
+  X   202  ILE
+  X   218  ILE
+  X   226  ILE
+  X   241  ILE
+  X   250  ILE
+  X   260  ILE
+  X   277  ILE
+  X   301  ILE
+  X   302  ILE
+  X   376  ILE
+  X   381  ILE
+  X   450  ILE
+  X   479  ILE
+  X   507  ILE
+  X   514  ILE
+  X   515  ILE
+
+
+Ligand was found automatically:   residue 515 ILE chain X
+
+
+pKa values:
+Group	Type	ResName	ResNum	InsCode	Chain	pKa(calc)	Comment
+0	TerN	ALA	1	 	X	  7.32		
+1	Asp	ASP	2	 	X	  3.25		
+3	Asp	ASP	11	 	X	  3.20		
+4	Lys	LYSH	12	 	X	 14.00	Ligand interactions	
+11	Glu	GLU	22	 	X	  4.01		
+14	Asp	ASP	27	 	X	  3.01		
+15	His	HISA	29	 	X	  6.04		
+16	Lys	LYSH	30	 	X	 14.00		
+17	Glu	GLU	32	 	X	  4.58		
+18	Glu	GLU	36	 	X	  4.36		
+23	Asp	ASP	42	 	X	  3.34		
+24	Glu	GLU	45	 	X	  5.01		
+26	Asp	ASP	51	 	X	  2.67		
+27	Glu	GLU	53	 	X	  3.77		
+28	His	HISA	55	 	X	  8.14		
+30	Glu	GLU	62	 	X	  3.64		
+31	Lys	LYSH	63	 	X	 14.00		
+33	Glu	GLU	65	 	X	  3.38		
+35	Lys	LYSH	67	 	X	 14.00		
+36	Asp	ASP	68	 	X	  2.98		
+37	Lys	LYSH	70	 	X	 14.00		
+40	His	HISA	75	 	X	  7.04		
+42	Glu	GLU	78	 	X	  4.20		
+44	Lys	LYSH	81	 	X	 14.00		
+47	Asp	ASP	84	 	X	  3.33		
+50	His	HISA	91	 	X	  7.26		
+51	Asp	ASP	92	 	X	  3.07		
+52	Tyr	TYR	95	 	X	 10.56		
+57	Asp	ASP	102	 	X	  3.40		
+61	Tyr	TYR	109	 	X	 11.61		
+63	Tyr	TYR	112	 	X	 10.96		
+65	Tyr	TYR	115	 	X	 10.69		
+66	His	HISA	117	 	X	  7.14		
+68	Asp	ASP	122	 	X	  3.52		
+69	Asp	ASP	123	 	X	  3.15		
+70	Lys	LYSH	128	 	X	 14.00		
+71	Lys	LYSH	129	 	X	 14.00		
+73	Asp	ASP	133	 	X	  3.18		
+74	Lys	LYSH	137	 	X	 14.00		
+75	Asp	ASP	140	 	X	  3.51		
+76	Asp	ASP	141	 	X	  3.63		
+77	His	HISA	142	 	X	  6.96		
+79	Glu	GLU	145	 	X	  3.38		
+82	Glu	GLU	150	 	X	  3.14		
+83	Tyr	TYR	154	 	X	 10.86		
+84	Tyr	TYR	156	 	X	 10.09		
+85	Lys	LYSH	157	 	X	 14.00		
+86	His	HISA	161	 	X	  2.21		
+89	Lys	LYSH	169	 	X	 14.00		
+91	Glu	GLU	173	 	X	  4.18		
+92	Lys	LYSH	174	 	X	 14.00		
+93	Asp	ASP	177	 	X	  3.20		
+94	Lys	LYSH	178	 	X	 14.00		
+101	Tyr	TYR	191	 	X	 11.26		
+102	Lys	LYSH	192	 	X	 14.00		
+103	Lys	LYSH	194	 	X	 14.00		
+107	Glu	GLU	200	 	X	  3.53		
+109	Glu	GLU	205	 	X	  2.81		
+113	Tyr	TYR	210	 	X	 11.51		
+115	Asp	ASP	212	 	X	  3.24		
+117	Lys	LYSH	215	 	X	 14.00		
+122	Tyr	TYR	223	 	X	 10.50		
+125	Glu	GLU	229	 	X	  3.79		
+127	Asp	ASP	232	 	X	  3.09		
+130	Tyr	TYR	236	 	X	 11.74		
+133	Glu	GLU	240	 	X	  3.90		
+134	Asp	ASP	242	 	X	  3.05		
+136	Tyr	TYR	245	 	X	 10.56		
+139	Glu	GLU	251	 	X	  4.71		
+141	Lys	LYSH	255	 	X	 14.00		
+142	Lys	LYSH	257	 	X	 14.00		
+143	Lys	LYSH	258	 	X	 14.00		
+144	Glu	GLU	259	 	X	  3.93		
+146	Glu	GLU	263	 	X	  5.09		
+148	Asp	ASP	267	 	X	  3.56		
+149	Tyr	TYR	269	 	X	 11.14		
+151	Tyr	TYR	273	 	X	  8.92		
+152	Tyr	TYR	274	 	X	 11.46		
+153	Tyr	TYR	275	 	X	 11.34		
+154	Glu	GLU	276	 	X	  3.74		
+158	Lys	LYSH	281	 	X	 14.00		
+160	Asp	ASP	286	 	X	  2.85		
+164	Lys	LYSH	294	 	X	 14.00		
+165	Asp	ASP	298	 	X	  3.61		
+167	Asp	ASP	300	 	X	  3.14		
+169	Lys	LYSH	305	 	X	 14.00		
+170	Lys	LYSH	307	 	X	 14.00		
+173	Asp	ASP	311	 	X	  3.48		
+174	Tyr	TYR	315	 	X	 10.70		
+176	Tyr	TYR	317	 	X	 11.65		
+178	Tyr	TYR	321	 	X	 10.72		
+180	Asp	ASP	323	 	X	  3.44		
+181	Lys	LYSH	326	 	X	 14.00		
+182	Glu	GLU	329	 	X	  4.85		
+183	Glu	GLU	331	 	X	  3.46		
+185	Lys	LYSH	334	 	X	 14.00		
+190	Lys	LYSH	339	 	X	 14.00		
+193	Glu	GLU	342	 	X	  3.97		
+194	Glu	GLU	343	 	X	  3.76		
+195	Lys	LYSH	345	 	X	 14.00		
+196	Lys	LYSH	346	 	X	 14.00		
+197	Glu	GLU	350	 	X	  4.09		
+199	Asp	ASP	356	 	X	  3.31		
+200	Lys	LYSH	357	 	X	 14.00		
+202	Asp	ASP	362	 	X	  6.22		
+203	Tyr	TYR	365	 	X	  9.97		
+207	Asp	ASP	369	 	X	  3.97		
+208	His	HISA	371	 	X	  7.31		
+209	Lys	LYSH	372	 	X	 14.00		
+210	Lys	LYSH	373	 	X	 14.00		
+213	Lys	LYSH	383	 	X	 14.00		
+214	Lys	LYSH	384	 	X	 14.00		
+218	Glu	GLU	393	 	X	  4.85		
+221	Glu	GLU	396	 	X	  3.10		
+223	Lys	LYSH	398	 	X	 14.00		
+225	Asp	ASP	402	 	X	  3.23		
+228	His	HISA	405	 	X	  6.88		
+231	Asp	ASP	410	 	X	  5.47		
+234	Asp	ASP	419	 	X	  3.64		
+235	Tyr	TYR	420	 	X	 11.32		
+237	Glu	GLU	422	 	X	  5.64		
+243	Asp	ASP	433	 	X	  3.41		
+249	His	HISA	440	 	X	  6.20		
+250	Tyr	TYR	441	 	X	 11.65		
+251	Lys	LYSH	442	 	X	 14.00		
+253	Asp	ASP	447	 	X	  2.35		
+254	Lys	LYSH	448	 	X	 14.00		
+255	Asp	ASP	452	 	X	  3.26		
+257	Lys	LYSH	455	 	X	 14.00		
+258	Asp	ASP	458	 	X	  3.40		
+259	Asp	ASP	459	 	X	  3.25		
+264	Glu	GLU	464	 	X	  3.57		
+265	Tyr	TYR	466	 	X	 11.89		
+266	Lys	LYSH	468	 	X	 14.00		
+267	Glu	GLU	470	 	X	  3.02		
+270	Asp	ASP	474	 	X	  2.82		
+271	Lys	LYSH	475	 	X	 14.00		
+272	Asp	ASP	476	 	X	  2.04		
+274	Tyr	TYR	483	 	X	  9.35		
+275	Tyr	TYR	484	 	X	  8.82		
+276	Tyr	TYR	485	 	X	 10.56		
+279	Lys	LYSH	492	 	X	 14.00		
+281	Tyr	TYR	498	 	X	 11.53		
+283	Lys	LYSH	501	 	X	 14.00		
+284	Asp	ASP	502	 	X	  3.76		
+285	Asp	ASP	505	 	X	  2.81		
+287	Tyr	TYR	508	 	X	  9.14		
+288	Lys	LYSH	510	 	X	 14.00		
+290	Tyr	TYR	513	 	X	 10.63		
+291	Lys	LYSH	516	 	X	 14.00		
+331	Ligand	HISA	517	 	X	  6.52		
+
+
+Build model log:
+ResName	ResNum	InsCode	Chain	Actions
+GLU	32	 	X	sidechain position changed	
+ASN	104	 	X	sidechain position changed (flip)	
+HISA	117	 	X	sidechain position changed	added 1 proton to atom NE2	
+HISA	142	 	X	sidechain position changed	added 1 proton to atom NE2	
+ASN	199	 	X	sidechain position changed (flip)	
+ASN	279	 	X	sidechain position changed (flip)	
+ASN	304	 	X	sidechain position changed (flip)	
+ASN	308	 	X	sidechain position changed (flip)	
+ASN	391	 	X	sidechain position changed (flip)	
+GLN	395	 	X	sidechain position changed (flip)	
+GLN	406	 	X	sidechain position changed (flip)	
+HISA	440	 	X	sidechain position changed	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+HISA	29	 	X	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+HISA	55	 	X	added 1 proton to atom NE2	
+HISA	75	 	X	added 1 proton to atom NE2	
+HISA	91	 	X	added 1 proton to atom NE2	
+HISA	161	 	X	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+HISA	371	 	X	added 1 proton to atom NE2	
+HISA	405	 	X	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+HISA	517	 	X	added 1 proton to atom O1	
+

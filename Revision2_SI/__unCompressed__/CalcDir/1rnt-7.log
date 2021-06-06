@@ -1,0 +1,154 @@
+-------------------------------------------------
+build model version 1808 build 1
+-------------------------------------------------
+
+Input filename: ./CalcDir/1rnt.pdb
+Random seed: 1574614129 3084
+pH for model building: 7
+
+
+Structure contains 8 broken sidechains:
+  X    60  ILE
+  X    89  ILE
+  X    60  ILE
+  X    89  ILE
+  X    60  ILE
+  X    89  ILE
+  X    60  ILE
+  X    89  ILE
+
+
+Ligand was found automatically:   residue 104 2GP chain X
+
+
+pKa values:
+Group	Type	ResName	ResNum	InsCode	Chain	pKa(calc)	Comment
+0	TerN	ALA	0	 	X	  7.56		
+1	Asp	ASP	2	 	X	  2.65		
+2	Tyr	TYR	3	 	X	 10.81		
+6	Tyr	TYR	10	 	X	 12.20		
+10	Asp	ASP	14	 	X	  3.02		
+14	Tyr	TYR	23	 	X	 11.37		
+15	Lys	LYS	24	 	X	 14.00		
+16	His	HIS	26	 	X	  7.10		
+17	Glu	GLU	27	 	X	  5.55		
+18	Asp	ASP	28	 	X	  4.28		
+19	Glu	GLU	30	 	X	  5.49		
+24	Tyr	TYR	37	 	X	 10.45		
+25	His	HIS	39	 	X	  6.57		
+26	Lys	LYS	40	 	X	 14.00		
+27	Tyr	TYR	41	 	X	 11.68		
+30	Tyr	TYR	44	 	X	 11.17		
+31	Glu	GLU	45	 	X	  5.63		
+32	Asp	ASP	48	 	X	  3.59		
+36	Tyr	TYR	55	 	X	 11.13		
+37	Tyr	TYR	56	 	X	 10.87		
+38	Glu	GLU	57	 	X	  4.36		
+42	Asp	ASP	65	 	X	  2.53		
+43	Tyr	TYR	67	 	X	 11.45		
+46	Asp	ASP	75	 	X	  2.12		
+49	Glu	GLU	81	 	X	  4.48		
+54	His	HIS	91	 	X	  6.13		
+59	Glu	GLU	101	 	X	  4.59		
+151	TerN	ALA	0	 	X	  7.56		
+152	Asp	ASP	2	 	X	  2.88		
+153	Tyr	TYR	3	 	X	 10.79		
+157	Tyr	TYR	10	 	X	 12.13		
+161	Asp	ASP	14	 	X	  2.73		
+165	Tyr	TYR	23	 	X	 11.33		
+166	Lys	LYS	24	 	X	 14.00		
+167	His	HIS	26	 	X	  6.09		
+168	Glu	GLU	27	 	X	  5.00		
+169	Asp	ASP	28	 	X	  4.50		
+170	Glu	GLU	30	 	X	  4.28		
+175	Tyr	TYR	37	 	X	 11.16	Ligand interactions	
+176	His	HIS	39	 	X	  6.44	Ligand interactions	
+177	Lys	LYS	40	 	X	 14.00		
+178	Tyr	TYR	41	 	X	 11.28	Ligand interactions	
+181	Tyr	TYR	44	 	X	 10.48	Ligand interactions	
+182	Glu	GLU	45	 	X	  5.34	Ligand interactions	
+183	Asp	ASP	48	 	X	  3.43		
+187	Tyr	TYR	55	 	X	 11.07		
+188	Tyr	TYR	56	 	X	 11.20		
+189	Glu	GLU	57	 	X	  4.46	Ligand interactions	
+193	Asp	ASP	65	 	X	  2.70		
+194	Tyr	TYR	67	 	X	 10.93		
+197	Asp	ASP	75	 	X	  2.48		
+200	Glu	GLU	81	 	X	  6.46		
+205	His	HIS	91	 	X	  5.95	Ligand interactions	
+210	Glu	GLU	101	 	X	  4.73		
+302	TerN	ALA	0	 	X	  7.36		
+303	Asp	ASP	2	 	X	  3.19		
+304	Tyr	TYR	3	 	X	 10.82		
+308	Tyr	TYR	10	 	X	 10.51		
+312	Asp	ASP	14	 	X	  3.02		
+316	Tyr	TYR	23	 	X	 11.38		
+317	Lys	LYS	24	 	X	 14.00		
+318	His	HIS	26	 	X	  6.46		
+319	Glu	GLU	27	 	X	  5.30		
+320	Asp	ASP	28	 	X	  4.52		
+321	Glu	GLU	30	 	X	  5.40		
+326	Tyr	TYR	37	 	X	 11.46	Ligand interactions	
+327	His	HIS	39	 	X	  6.74	Ligand interactions	
+328	Lys	LYS	40	 	X	 14.00		
+329	Tyr	TYR	41	 	X	 11.24	Ligand interactions	
+332	Tyr	TYR	44	 	X	 10.44	Ligand interactions	
+333	Glu	GLU	45	 	X	  4.33	Ligand interactions	
+334	Asp	ASP	48	 	X	  3.81		
+338	Tyr	TYR	55	 	X	 10.98		
+339	Tyr	TYR	56	 	X	 11.05		
+340	Glu	GLU	57	 	X	  4.53	Ligand interactions	
+344	Asp	ASP	65	 	X	  3.09		
+345	Tyr	TYR	67	 	X	 11.28		
+348	Asp	ASP	75	 	X	  3.35		
+351	Glu	GLU	81	 	X	  5.37		
+356	His	HIS	91	 	X	  6.25	Ligand interactions	
+361	Glu	GLU	101	 	X	  4.35		
+453	TerN	ALA	0	 	X	  7.80		
+454	Asp	ASP	2	 	X	  2.66		
+455	Tyr	TYR	3	 	X	 10.77		
+459	Tyr	TYR	10	 	X	 12.44		
+463	Asp	ASP	14	 	X	  3.22		
+467	Tyr	TYR	23	 	X	 11.18		
+468	Lys	LYS	24	 	X	 14.00		
+469	His	HIS	26	 	X	  7.06		
+470	Glu	GLU	27	 	X	  4.89		
+471	Asp	ASP	28	 	X	  4.84		
+472	Glu	GLU	30	 	X	  5.38		
+477	Tyr	TYR	37	 	X	 11.04	Ligand interactions	
+478	His	HIS	39	 	X	  6.76	Ligand interactions	
+479	Lys	LYS	40	 	X	 14.00	Ligand interactions	
+480	Tyr	TYR	41	 	X	 11.68	Ligand interactions	
+483	Tyr	TYR	44	 	X	 10.50	Ligand interactions	
+484	Glu	GLU	45	 	X	  5.15	Ligand interactions	
+485	Asp	ASP	48	 	X	  3.53		
+489	Tyr	TYR	55	 	X	 11.10		
+490	Tyr	TYR	56	 	X	 10.91		
+491	Glu	GLU	57	 	X	  4.49	Ligand interactions	
+495	Asp	ASP	65	 	X	  3.30		
+496	Tyr	TYR	67	 	X	 11.32		
+499	Asp	ASP	75	 	X	  2.55		
+502	Glu	GLU	81	 	X	  5.60		
+507	His	HIS	91	 	X	  5.97	Ligand interactions	
+512	Glu	GLU	101	 	X	  4.80		
+604	Ligand	2GP	104	 	X	 -9.59	Group have 3 ionization states; Additional pKa:   0.39 	
+605	Ligand	2GP	104	 	X	 -8.24	Group have 3 ionization states; Additional pKa:   0.82 	
+606	Ligand	2GP	104	 	X	 -9.10	Group have 3 ionization states; Additional pKa:   0.70 	
+
+
+Build model log:
+ResName	ResNum	InsCode	Chain	Actions
+GLN	19	 	X	sidechain position changed (flip)	sidechain position changed (flip)	sidechain position changed (flip)	sidechain position changed (flip)	
+GLU	27	 	X	sidechain position changed	sidechain position changed	sidechain position changed	sidechain position changed	
+HIS	39	 	X	sidechain position changed (flip)	removed 1 proton from atom ND1	removed 1 proton from atom ND1	removed 1 proton from atom ND1	removed 1 proton from atom ND1	
+ASN	83	 	X	sidechain position changed (flip)	sidechain position changed (flip)	sidechain position changed (flip)	sidechain position changed (flip)	
+GLN	84	 	X	sidechain position changed (flip)	sidechain position changed (flip)	sidechain position changed (flip)	sidechain position changed (flip)	
+HIS	91	 	X	sidechain position changed (flip)	removed 1 proton from atom ND1	added 1 proton to atom NE2	removed 1 proton from atom ND1	added 1 proton to atom NE2	removed 1 proton from atom ND1	added 1 proton to atom NE2	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+ASN	97	 	X	sidechain position changed (flip)	sidechain position changed (flip)	
+ASN	35	 	X	sidechain position changed (flip)	sidechain position changed (flip)	sidechain position changed (flip)	
+ASN	42	 	X	sidechain position changed (flip)	sidechain position changed (flip)	sidechain position changed (flip)	
+ASN	82	 	X	sidechain position changed (flip)	
+THR	103	 	X	added 1 proton to atom O2	added 1 proton to atom O2	added 1 proton to atom O2	added 1 proton to atom O2	
+HIS	26	 	X	removed 1 proton from atom ND1	removed 1 proton from atom ND1	
+2GP	104	 	X	removed 2 protons from atom N	removed 1 proton from atom N	added 1 proton to atom N	added 1 proton to atom C	added 1 proton to atom C	added 1 proton to atom N	added 1 proton to atom N	added 1 proton to atom O	removed 1 proton from atom O	removed 1 proton from atom C	added 1 proton to atom C	added 1 proton to atom C	removed 1 proton from atom C	removed 1 proton from atom C	removed 1 proton from atom C	
+

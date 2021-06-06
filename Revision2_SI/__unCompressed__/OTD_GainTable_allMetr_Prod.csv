@@ -1,0 +1,37 @@
+Target;PDB ID;Type;Open active site;Total charge at pH=7;AUROC_None;auroc_Self;auroc_Gain;bedroc_5_None;bedroc_5_Self;bedroc_5_Gain;ef_5_None;ef_5_Self;ef_5_Gain
+Ribonuclease A;1qhc;Ribonuclease;yes;0.44;0.45;0.93;0.48;0.09;0.79;0.70;0.00;12.00;12.00
+Poly(ADP-ribose) polymerase;1efy;Transferase;yes;-8.09;0.47;0.68;0.21;0.08;0.24;0.16;0.00;0.00;0.00
+Thymidylate synthase;1f4g;Transferase;yes;-34.89;0.58;0.94;0.36;0.21;0.83;0.62;0.00;16.00;16.00
+Ribonuclease T1;1rnt;Ribonuclease;yes;-36.37;0.63;0.98;0.35;0.20;0.90;0.70;0.00;18.00;18.00
+Acetylcholinesterase;1eve;Hydrolase;no;-28.02;0.69;0.81;0.13;0.23;0.44;0.22;0.00;0.00;0.00
+Heat shock protein HSP 90-alpha;1uy6;Hydrolase;yes;-12.82;0.70;0.81;0.11;0.27;0.44;0.17;0.00;0.67;0.67
+Orotidine-5′-P decarboxylase;1eix;Lyase;no;-33.49;0.76;0.95;0.19;0.38;0.82;0.44;0.00;12.22;12.22
+Acetylcholinesterase;"""1e66""";Hydrolase;no;-27.88;0.78;0.85;0.07;0.44;0.57;0.13;3.75;6.25;2.50
+Glucocorticoid receptor;1m2z;Nuclear receptor;no;-10.15;0.79;0.83;0.04;0.47;0.57;0.10;2.00;3.60;1.60
+Neuraminidase;2qwg;Hydrolase;yes;-23.51;0.81;0.94;0.13;0.51;0.79;0.28;1.33;10.00;8.67
+Cyclooxygenase-2;1cx2;Oxidoreductase;no;-19.95;0.82;0.87;0.05;0.52;0.64;0.11;2.72;6.80;4.08
+Thymidine kinase;1kim;Kinase;no;-22.46;0.84;0.95;0.11;0.51;0.79;0.27;4.00;10.00;6.00
+Angiotensin-converting enzyme;1o86;Hydrolase;no;-32.24;0.84;0.95;0.11;0.52;0.80;0.27;2.00;14.00;12.00
+Penicillopepsin;1bxo;Protease;yes;-20.21;0.85;0.95;0.11;0.53;0.79;0.27;4.00;12.00;8.00
+Vascular endothelial growth factor receptor kinase 2;2oh4;Kinase;yes;-16.41;0.85;0.92;0.07;0.58;0.73;0.16;3.92;6.80;2.88
+Fibroblast growth factor receptor kinase;1fgi;Kinase;yes;-16.14;0.85;0.89;0.04;0.53;0.64;0.11;0.80;4.80;4.00
+Thermolysin;4tmn;Protease;yes;-19.05;0.86;0.98;0.12;0.59;0.91;0.31;9.00;16.00;7.00
+Progesteron receptor;1sr7;Nuclear receptor;no;-8.22;0.87;0.88;0.01;0.57;0.62;0.05;5.00;6.00;1.00
+Tyrosine-protein kinase Lck;1qpe;Kinase;yes;-24.20;0.87;0.97;0.09;0.65;0.89;0.24;6.00;15.00;9.00
+Urokinase-type plasminogen activator;1gj7;Hydrolase;yes;-3.80;0.89;0.97;0.08;0.63;0.86;0.23;4.00;14.00;10.00
+P38 MAP kinase;1kv2;Kinase;yes;-20.77;0.89;0.95;0.06;0.66;0.81;0.15;6.80;10.00;3.20
+cAMP-dependent protein kinase;1stc;Kinase;no;-9.65;0.90;0.94;0.04;0.68;0.81;0.13;5.20;9.20;4.00
+Epidermal growth factor receptor kinase;1m17;Kinase;yes;-20.52;0.90;0.96;0.06;0.68;0.85;0.17;6.00;10.32;4.32
+Estrogen receptor;1l2i;Nuclear receptor;no;-14.70;0.92;0.93;0.01;0.70;0.75;0.05;4.72;5.92;1.20
+Tyrosine kinase c-Src.;2src;Kinase;yes;-28.60;0.92;0.97;0.05;0.74;0.88;0.14;8.32;11.52;3.20
+Protein tyrosine phosphatase 1B;1c84;Hydrolase;yes;-19.82;0.96;0.99;0.03;0.83;0.95;0.12;11.00;19.00;8.00
+Mineralocorticoid receptor;2aa2;Nuclear receptor;no;-7.89;0.96;0.99;0.02;0.84;0.93;0.09;14.00;18.00;4.00
+Trypsin;1qbo;Protease;yes;14.76;0.97;1.00;0.02;0.88;0.98;0.10;15.00;20.00;5.00
+Peroxisome proliferator activated receptor gamma;1fm9;Nuclear receptor;no;-28.08;0.98;0.99;0.01;0.91;0.97;0.06;12.72;17.20;4.48
+HIV-1 protease;1pro;Protease;no;-3.87;0.98;0.99;0.01;0.93;0.96;0.03;13.92;17.12;3.20
+Beta-secretase;1m4h;Protease;yes;-23.69;0.98;0.98;0.00;0.94;0.92;-0.01;16.15;15.50;-0.65
+Estrogen receptor;3ert;Nuclear receptor;no;-12.99;0.98;0.99;0.01;0.94;0.98;0.03;17.87;19.33;1.47
+Thrombin;1c4v;Protease;yes;-10.99;0.99;1.00;0.01;0.95;0.98;0.03;16.15;20.00;3.85
+Factor Xa;1fjs;Protease;yes;-14.82;0.99;1.00;0.00;0.98;0.99;0.01;17.20;17.92;0.72
+Oligopeptide-binding protein;1b5j;None;no;-20.02;1.00;1.00;0.00;0.99;1.00;0.00;20.00;20.00;0.00
+Average value;;;;-17.69;0.84;0.93;0.09;0.60;0.80;0.19;6.67;11.86;5.19

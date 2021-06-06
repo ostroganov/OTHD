@@ -1,0 +1,154 @@
+-------------------------------------------------
+build model version 1808 build 1
+-------------------------------------------------
+
+Input filename: ./CalcDir/2qwg.pdb
+Random seed: 1574614226 544
+pH for model building: 7
+
+
+Structure contains 25 broken sidechains:
+  X    13  ILE
+  X    18  ILE
+  X    27  ILE
+  X    59  ILE
+  X    68  ILE
+  X    78  ILE
+  X    96  ILE
+  X   112  ILE
+  X   114  ILE
+  X   125  ILE
+  X   135  ILE
+  X   142  ILE
+  X   174  ILE
+  X   182  ILE
+  X   195  ILE
+  X   207  ILE
+  X   223  ILE
+  X   225  ILE
+  X   237  ILE
+  X   285  ILE
+  X   287  ILE
+  X   315  ILE
+  X   347  ILE
+  X   363  ILE
+  X   384  ILE
+
+
+Ligand was found automatically:   residue 384 ILE chain X
+
+
+pKa values:
+Group	Type	ResName	ResNum	InsCode	Chain	pKa(calc)	Comment
+0	TerN	ARG	1	 	X	  7.50		
+2	Asp	ASP	2	 	X	  3.01		
+6	Lys	LYSH	8	 	X	 14.00		
+11	His	HISA	17	 	X	  5.88		
+12	Tyr	TYR	19	 	X	 10.65		
+13	Lys	LYSH	21	 	X	 14.00		
+14	Asp	ASP	22	 	X	  3.06		
+17	Glu	GLU	29	 	X	  3.94		
+18	Asp	ASP	30	 	X	  3.73		
+20	Asp	ASP	32	 	X	  3.05		
+23	Glu	GLU	38	 	X	  4.26		
+24	Tyr	TYR	40	 	X	 10.55		
+26	Asp	ASP	44	 	X	  3.10		
+27	Asp	ASP	46	 	X	  3.50		
+28	Glu	GLU	47	 	X	  3.96		
+30	Tyr	TYR	51	 	X	 10.81		
+36	Lys	LYSH	62	 	X	 14.00		
+37	His	HISA	63	 	X	  6.06		
+41	His	HISA	69	 	X	  6.17		
+42	Asp	ASP	70	 	X	  3.22		
+46	Tyr	TYR	74	 	X	 10.73		
+53	Tyr	TYR	89	 	X	 11.97		
+57	Glu	GLU	94	 	X	  3.51		
+63	His	HISA	104	 	X	  7.11		
+64	Asp	ASP	105	 	X	  2.59		
+65	Lys	LYSH	107	 	X	 14.00		
+75	Tyr	TYR	127	 	X	 12.00		
+80	Glu	GLU	134	 	X	  4.59		
+89	Glu	GLU	147	 	X	  3.47		
+91	Glu	GLU	149	 	X	  3.76		
+92	His	HISA	153	 	X	  6.13		
+95	Asp	ASP	163	 	X	  2.54		
+98	Glu	GLU	171	 	X	  4.06		
+101	Tyr	TYR	175	 	X	 10.20		
+102	Tyr	TYR	176	 	X	 10.81		
+103	Lys	LYSH	178	 	X	 14.00		
+104	Glu	GLU	179	 	X	  3.58		
+105	Lys	LYSH	181	 	X	 14.00		
+106	Lys	LYSH	184	 	X	 14.00		
+108	Glu	GLU	186	 	X	  4.71		
+110	Lys	LYSH	193	 	X	 14.00		
+111	His	HISA	194	 	X	  7.35		
+112	Glu	GLU	196	 	X	  2.39		
+113	Glu	GLU	197	 	X	  4.48		
+115	Tyr	TYR	201	 	X	  8.47		
+116	Glu	GLU	203	 	X	  6.15		
+118	Glu	GLU	206	 	X	  4.63		
+121	Lys	LYSH	212	 	X	 14.00		
+122	Asp	ASP	213	 	X	  2.51		
+130	Asp	ASP	226	 	X	  3.31		
+132	His	HISA	232	 	X	  7.49		
+136	Tyr	TYR	236	 	X	  9.57		
+139	Asp	ASP	244	 	X	  2.67		
+143	Asp	ASP	250	 	X	  2.53		
+145	Lys	LYSH	255	 	X	 14.00		
+147	Asp	ASP	258	 	X	  3.36		
+148	Tyr	TYR	260	 	X	 10.48		
+153	Lys	LYSH	269	 	X	 14.00		
+155	Tyr	TYR	273	 	X	 10.03		
+156	Asp	ASP	275	 	X	  3.84		
+166	Tyr	TYR	293	 	X	 10.99		
+167	Glu	GLU	294	 	X	  3.70		
+168	Lys	LYSH	297	 	X	 14.00		
+171	Asp	ASP	304	 	X	  3.38		
+172	Asp	ASP	305	 	X	  3.24		
+173	Lys	LYSH	306	 	X	 14.00		
+175	Lys	LYSH	308	 	X	 14.00		
+182	Asp	ASP	320	 	X	  3.67		
+185	Tyr	TYR	324	 	X	 10.44		
+188	Asp	ASP	330	 	X	  3.36		
+189	Tyr	TYR	331	 	X	  9.15		
+191	Glu	GLU	334	 	X	  4.28		
+192	Glu	GLU	336	 	X	  4.12		
+193	Tyr	TYR	338	 	X	  8.23		
+195	Tyr	TYR	343	 	X	 11.42		
+196	Glu	GLU	345	 	X	  4.59		
+199	Lys	LYSH	352	 	X	 14.00		
+200	Glu	GLU	353	 	X	  2.74		
+201	Asp	ASP	354	 	X	  3.35		
+202	Lys	LYSH	355	 	X	 14.00		
+213	Glu	GLU	371	 	X	  3.73		
+216	Asp	ASP	377	 	X	  3.71		
+218	Asp	ASP	380	 	X	  2.23		
+219	Lys	LYSH	383	 	X	 14.00		
+220	Glu	GLU	385	 	X	  4.15		
+221	Tyr	TYR	386	 	X	  9.91		
+
+
+Build model log:
+ResName	ResNum	InsCode	Chain	Actions
+ASN	14	 	X	sidechain position changed (flip)	
+HISA	17	 	X	sidechain position changed	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+HISA	69	 	X	sidechain position changed	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+ASN	90	 	X	sidechain position changed (flip)	
+HISA	104	 	X	sidechain position changed	added 1 proton to atom NE2	
+ARG	129	 	X	sidechain position changed	
+ASN	136	 	X	sidechain position changed (flip)	
+ASN	141	 	X	sidechain position changed (flip)	
+HISA	153	 	X	sidechain position changed	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+ASN	154	 	X	sidechain position changed (flip)	
+GLU	203	 	X	sidechain position changed	
+GLN	216	 	X	sidechain position changed (flip)	
+ASN	263	 	X	sidechain position changed (flip)	
+ASN	264	 	X	sidechain position changed (flip)	
+GLN	311	 	X	sidechain position changed (flip)	
+GLN	313	 	X	sidechain position changed (flip)	
+ASN	318	 	X	sidechain position changed (flip)	
+HISA	63	 	X	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+HISA	194	 	X	added 1 proton to atom NE2	
+HISA	232	 	X	added 1 proton to atom NE2	
+LEU	388	 	X	added 1 proton to atom O1	
+

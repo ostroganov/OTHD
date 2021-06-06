@@ -1,0 +1,167 @@
+-------------------------------------------------
+build model version 1808 build 1
+-------------------------------------------------
+
+Input filename: ./CalcDir/1efy.pdb
+Random seed: 1574614077 8452
+pH for model building: 7
+
+
+Structure contains 26 broken sidechains:
+  A     7  ILE
+  A    11  ILE
+  A    14  ILE
+  A    29  ILE
+  A    44  ILE
+  A    50  ILE
+  A    67  ILE
+  A    78  ILE
+  A    96  ILE
+  A   109  ILE
+  A   128  ILE
+  A   130  ILE
+  A   139  ILE
+  A   151  ILE
+  A   152  ILE
+  A   174  ILE
+  A   177  ILE
+  A   210  ILE
+  A   217  ILE
+  A   233  ILE
+  A   254  ILE
+  A   257  ILE
+  A   276  ILE
+  A   313  ILE
+  A   317  ILE
+  A   328  ILE
+
+
+Ligand was found automatically:   residue 328 ILE chain A
+
+
+pKa values:
+Group	Type	ResName	ResNum	InsCode	Chain	pKa(calc)	Comment
+0	TerN	LYS	0	 	A	  7.54		
+1	Lys	LYS	0	 	A	 14.00		
+3	Lys	LYS	2	 	A	 14.00		
+4	Lys	LYS	5	 	A	 14.00		
+6	Asp	ASP	9	 	A	  3.17		
+7	Lys	LYS	12	 	A	 14.00		
+8	Asp	ASP	16	 	A	  2.28		
+9	Glu	GLU	18	 	A	  3.27		
+11	Lys	LYS	21	 	A	 14.00		
+12	Lys	LYS	22	 	A	 14.00		
+13	Glu	GLU	26	 	A	  3.46		
+14	Glu	GLU	28	 	A	  3.54		
+15	Asp	ASP	30	 	A	  4.37		
+17	Lys	LYS	33	 	A	 14.00		
+18	Lys	LYS	38	 	A	 14.00		
+20	Lys	LYS	41	 	A	 14.00		
+25	Tyr	TYR	48	 	A	 11.80		
+28	Glu	GLU	53	 	A	  3.93		
+32	Asp	ASP	60	 	A	  3.74		
+34	Glu	GLU	64	 	A	  3.93		
+37	Asp	ASP	69	 	A	  3.30		
+41	Tyr	TYR	75	 	A	 11.16		
+43	His	HIS	80	 	A	  5.14		
+44	Asp	ASP	81	 	A	  4.16		
+45	Lys	LYS	85	 	A	 14.00		
+46	Lys	LYS	86	 	A	 14.00		
+49	Glu	GLU	94	 	A	  4.29		
+50	Tyr	TYR	95	 	A	 10.74		
+52	Lys	LYS	99	 	A	 14.00		
+54	Asp	ASP	104	 	A	  2.31		
+56	Asp	ASP	108	 	A	  3.39		
+57	Glu	GLU	110	 	A	  3.18		
+58	Tyr	TYR	113	 	A	 10.29		
+62	Glu	GLU	121	 	A	  4.46		
+63	Asp	ASP	122	 	A	  3.49		
+64	Asp	ASP	124	 	A	  3.62		
+65	Lys	LYS	125	 	A	 14.00		
+66	Asp	ASP	126	 	A	  3.08		
+67	Asp	ASP	129	 	A	  2.38		
+69	Tyr	TYR	132	 	A	  8.80		
+70	Glu	GLU	133	 	A	  3.94		
+71	Lys	LYS	134	 	A	 14.00		
+74	Asp	ASP	138	 	A	  3.42		
+75	Lys	LYS	140	 	A	 14.00		
+76	Asp	ASP	143	 	A	  3.50		
+77	Lys	LYS	144	 	A	 14.00		
+78	Asp	ASP	145	 	A	  3.20		
+80	Glu	GLU	147	 	A	  3.33		
+81	Glu	GLU	148	 	A	  5.90		
+82	Lys	LYS	150	 	A	 14.00		
+83	Lys	LYS	153	 	A	 14.00		
+85	Tyr	TYR	155	 	A	 11.29		
+86	Lys	LYS	157	 	A	 14.00		
+89	His	HIS	160	 	A	  6.52		
+91	His	HIS	164	 	A	  2.18		
+93	Tyr	TYR	167	 	A	 11.27		
+94	Asp	ASP	168	 	A	  3.28		
+95	Lys	LYS	170	 	A	 14.00		
+96	Glu	GLU	173	 	A	  3.65		
+98	Glu	GLU	178	 	A	  4.17		
+100	Glu	GLU	180	 	A	  3.47		
+101	Glu	GLU	182	 	A	  4.80		
+105	Tyr	TYR	186	 	A	 10.54		
+106	Lys	LYS	187	 	A	 14.00		
+107	Lys	LYS	190	 	A	 14.00		
+109	His	HIS	193	 	A	  6.16		
+114	His	HIS	200	 	A	  6.17		
+123	Glu	GLU	221	 	A	  4.25		
+125	Tyr	TYR	227	 	A	 12.05		
+126	Lys	LYS	231	 	A	 14.00		
+127	Tyr	TYR	234	 	A	 10.36		
+128	Asp	ASP	237	 	A	  2.51		
+130	Lys	LYS	241	 	A	 14.00		
+133	Tyr	TYR	245	 	A	 10.50		
+134	Cys	CYS	246	 	A	  8.78		
+135	His	HIS	247	 	A	  6.10		
+139	Asp	ASP	252	 	A	  3.55		
+140	Glu	GLU	261	 	A	  4.47		
+142	Tyr	TYR	268	 	A	 10.37		
+143	Glu	GLU	269	 	A	  3.55		
+144	Lys	LYS	271	 	A	 14.00		
+147	His	HIS	275	 	A	  6.23		
+149	Lys	LYS	278	 	A	 14.00		
+150	Lys	LYS	281	 	A	 14.00		
+151	Lys	LYS	283	 	A	 14.00		
+152	His	HIS	284	 	A	  5.98		
+154	Lys	LYS	287	 	A	 14.00		
+155	Lys	LYS	291	 	A	 14.00		
+157	Asp	ASP	295	 	A	  3.55		
+162	Asp	ASP	303	 	A	  3.73		
+163	Glu	GLU	306	 	A	  4.39		
+168	Asp	ASP	319	 	A	  3.40		
+170	Cys	CYS	321	 	A	  8.65		
+171	Tyr	TYR	324	 	A	 10.09		
+173	Glu	GLU	326	 	A	  4.12		
+174	Tyr	TYR	327	 	A	 10.93		
+175	Tyr	TYR	330	 	A	 11.32		
+176	Asp	ASP	331	 	A	  3.34		
+179	Lys	LYS	338	 	A	 14.00		
+180	Tyr	TYR	339	 	A	 11.10		
+181	Lys	LYS	342	 	A	 14.00		
+182	Lys	LYS	344	 	A	 14.00		
+184	Tyr	TYR	347	 	A	 10.76		
+185	Lys	LYS	348	 	A	 14.00	Ligand interactions	
+
+
+Build model log:
+ResName	ResNum	InsCode	Chain	Actions
+ARG	42	 	A	sidechain position changed	
+GLN	97	 	A	sidechain position changed (flip)	
+ASN	120	 	A	sidechain position changed (flip)	
+ASN	131	 	A	sidechain position changed (flip)	
+LYS	153	 	A	sidechain position changed	
+LYS	170	 	A	sidechain position changed	
+GLN	184	 	A	sidechain position changed (flip)	
+HIS	247	 	A	sidechain position changed (flip)	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+ASN	272	 	A	sidechain position changed (flip)	
+HIS	275	 	A	sidechain position changed (flip)	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+ASN	318	 	A	sidechain position changed (flip)	
+HIS	164	 	A	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+HIS	200	 	A	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+ASP	237	 	A	removed 1 proton from atom OD2	
+THR	349	 	A	added 1 proton to atom O2	
+

@@ -1,0 +1,36 @@
+Target;target;Type;None;Self;Gain;TotCharge
+Ribonuclease A;1qhc;Ribonuclease;44.6;92.9;48.3;12
+Poly(ADP-ribose) polymerase;1efy;Transferase;46.7;68.0;21.3;3
+Thymidylate synthase;1f4g;Transferase;58.0;93.9;35.9;-18
+Ribonuclease T1;1rnt;Ribonuclease;62.7;97.7;34.9;-28
+Acetylcholinesterase;1eve;Hydrolase;68.8;81.3;12.6;-2
+Heat shock protein HSP 90-alpha;1uy6;Hydrolase;70.4;81.0;10.6;-5
+Orotidine-5'-P decarboxylase;1eix;Lyase;76.1;95.3;19.1;-10
+Acetylcholinesterase;1e66;Hydrolase;78.1;85.3;7.2;-9
+Glucocorticoid receptor;1m2z;Nuclear receptor;79.1;82.8;3.7;-1
+Neuraminidase;2qwg;Hydrolase;81.0;93.6;12.5;-3
+Cyclooxygenase-2;1cx2;Oxidoreductase;82.0;87.1;5.2;-2
+Thymidine kinase;1kim;Kinase;84.0;94.7;10.7;-13
+Angiotensin-converting enzyme;1o86;Hydrolase;84.1;94.8;10.7;-7
+Penicillopepsin;1bxo;Protease;84.5;95.2;10.7;-22
+Vascular endothelial growth factor receptor kinase 2;2oh4;Kinase;84.6;91.9;7.3;-2
+Fibroblast growth factor receptor kinase;1fgi;Kinase;85.2;89.0;3.9;3
+Thermolysin;4tmn;Protease;85.9;97.7;11.8;0
+Progesteron receptor;1sr7;Nuclear receptor;86.6;88.1;1.5;5
+Tyrosine-protein kinase Lck;1qpe;Kinase;87.5;96.9;9.4;-7
+P38 MAP kinase;1kv2;Kinase;89.2;94.9;5.7;-7
+Urokinase-type plasminogen activator;1gj7;Hydrolase;89.2;96.8;7.6;8
+cAMP-dependent protein kinase;1stc;Kinase;89.8;94.1;4.3;-6
+Epidermal growth factor receptor kinase;1m17;Kinase;90.0;96.2;6.2;-3
+Estrogen receptor;1l2i;Nuclear receptor;91.7;92.9;1.2;-5
+Tyrosine kinase c-Src.;2src;Kinase;92.2;96.9;4.7;-1
+Protein tyrosine phosphatase 1B;1c84;Hydrolase;96.1;99.0;2.9;-5
+Mineralocorticoid receptor;2aa2;Nuclear receptor;96.2;98.5;2.4;1
+Trypsin;1qbo;Protease;97.3;99.6;2.3;26
+Peroxisome proliferator activated receptor gamma;1fm9;Nuclear receptor;97.9;99.3;1.4;-2
+HIV-1 protease;1pro;Protease;98.4;99.1;0.7;7
+Beta-secretase;1m4h;Protease;98.5;98.2;-0.3;-13
+Estrogen receptor;3ert;Nuclear receptor;98.5;99.5;1.0;-1
+Thrombin;1c4v;Protease;98.9;99.6;0.7;10
+Factor Xa;1fjs;Protease;99.4;99.7;0.3;-7
+Oligopeptide-binding protein;1b5j;None;99.9;99.9;0.1;-8

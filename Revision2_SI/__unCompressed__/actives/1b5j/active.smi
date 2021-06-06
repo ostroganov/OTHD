@@ -1,0 +1,16 @@
+[NH3][C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)[O])CCCC[NH3])Cc1ccccc1)CCCC[NH3]	ligand8.pdb
+[NH3][C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)[O])CCCC[NH3])[C@H](O)C)CCCC[NH3]	ligand12.pdb
+[NH3][C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)[O])CCCC[NH3])CO)CCCC[NH3]	ligand10.pdb
+[NH3][C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)[O])CCCC[NH3])[C@H](CC)C)CCCC[NH3]	ligand15.pdb
+[NH3][C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)[O])CCCC[NH3])C)CCCC[NH3]	ligand4.pdb
+[NH3][C@H](C(=O)NCC(=O)N[C@H](C(=O)[O])CCCC[NH3])CCCC[NH3]	ligand2.pdb
+[NH3][C@H](C(=O)N[C@H](C(=O)[O])CCCC[NH3])CCCC[NH3]	ligand1.pdb
+[NH3][C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)[O])CCCC[NH3])CC(=O)N)CCCC[NH3]	ligand11.pdb
+[NH3][C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)[O])CCCC[NH3])CCC(=O)N)CCCC[NH3]	ligand0.pdb
+[NH3][C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)[O])CCCC[NH3])CCCC[NH3])CCCC[NH3]	ligand3.pdb
+[NH3][C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)[O])CCCC[NH3])CCC(=O)[O])CCCC[NH3]	ligand14.pdb
+[NH3][C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)[O])CCCC[NH3])CCSC)CCCC[NH3]	ligand13.pdb
+[NH3][C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)[O])CCCC[NH3])Cc1[nH]cnc1)CCCC[NH3]	ligand7.pdb
+[NH3][C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)[O])CCCC[NH3])CC(=O)[O])CCCC[NH3]	ligand5.pdb
+[NH3][C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)[O])CCCC[NH3])Cc1ccc(cc1)O)CCCC[NH3]	ligand6.pdb
+[NH3][C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)[O])CCCC[NH3])Cc1ccccc1)CCCC[NH3]	ligand9.pdb

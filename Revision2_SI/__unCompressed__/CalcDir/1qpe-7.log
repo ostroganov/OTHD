@@ -1,0 +1,129 @@
+-------------------------------------------------
+build model version 1808 build 1
+-------------------------------------------------
+
+Input filename: ./CalcDir/1qpe.pdb
+Random seed: 1574614155 20852
+pH for model building: 7
+
+
+Structure contains 18 broken sidechains:
+  X    81  ILE
+  X    83  ILE
+  X    84  ILE
+  X   103  ILE
+  X   107  ILE
+  X   117  ILE
+  X   124  ILE
+  X   130  ILE
+  X   139  ILE
+  X   149  ILE
+  X   158  ILE
+  X   173  ILE
+  X   181  ILE
+  X   188  ILE
+  X   197  ILE
+  X   202  ILE
+  X   208  ILE
+  X   219  ILE
+
+
+Ligand was found automatically:   residue 272 SO4 chain X
+
+
+pKa values:
+Group	Type	ResName	ResNum	InsCode	Chain	pKa(calc)	Comment
+0	TerN	LYS	0	 	X	  7.53		
+1	Lys	LYS	0	 	X	 14.00		
+4	Glu	GLU	4	 	X	  4.52		
+5	Asp	ASP	5	 	X	  3.38		
+6	Glu	GLU	6	 	X	  4.44		
+8	Glu	GLU	8	 	X	  2.85		
+10	Glu	GLU	12	 	X	  4.10		
+12	Lys	LYS	15	 	X	 14.00		
+13	Glu	GLU	18	 	X	  4.37		
+16	Glu	GLU	27	 	X	  3.88		
+18	Tyr	TYR	32	 	X	  9.52		
+19	Tyr	TYR	33	 	X	 11.00		
+21	His	HIS	36	 	X	  5.95		
+23	Lys	LYS	38	 	X	 14.00		
+24	Lys	LYS	42	 	X	 14.00		
+26	Lys	LYS	45	 	X	 14.00		
+30	Asp	ASP	52	 	X	  3.46		
+31	Glu	GLU	57	 	X	  4.31		
+33	Lys	LYS	62	 	X	 14.00		
+36	His	HIS	66	 	X	  6.07		
+40	Tyr	TYR	73	 	X	 10.93		
+43	Glu	GLU	79	 	X	  4.21		
+44	Tyr	TYR	82	 	X	 10.31		
+46	Glu	GLU	86	 	X	  3.59		
+47	Tyr	TYR	87	 	X	 11.12		
+48	Glu	GLU	89	 	X	  5.20		
+51	Asp	ASP	95	 	X	  3.47		
+52	Lys	LYS	98	 	X	 14.00		
+55	Lys	LYS	104	 	X	 14.00		
+58	Lys	LYS	109	 	X	 14.00		
+59	Asp	ASP	112	 	X	  3.41		
+61	Glu	GLU	119	 	X	  4.30		
+62	Glu	GLU	125	 	X	  4.41		
+63	Glu	GLU	126	 	X	  4.01		
+66	Tyr	TYR	129	 	X	 10.98		
+67	His	HIS	131	 	X	  6.76		
+69	Asp	ASP	133	 	X	  3.80		
+73	Asp	ASP	143	 	X	  3.34		
+76	Cys	CYS	147	 	X	  8.50		
+77	Lys	LYS	148	 	X	 14.00		
+78	Asp	ASP	151	 	X	  3.59		
+80	Glu	GLU	159	 	X	  4.51	Ligand interactions	
+81	Asp	ASP	160	 	X	  3.79		
+83	Glu	GLU	162	 	X	  3.65		
+86	Glu	GLU	167	 	X	  4.08		
+87	Lys	LYS	170	 	X	 14.00		
+88	Lys	LYS	174	 	X	 14.00		
+91	Glu	GLU	179	 	X	  2.50		
+93	Tyr	TYR	183	 	X	 10.52		
+96	Lys	LYS	189	 	X	 14.00		
+98	Asp	ASP	191	 	X	  2.97		
+102	Glu	GLU	201	 	X	  4.22		
+104	His	HIS	205	 	X	  6.46		
+106	Tyr	TYR	210	 	X	 10.26		
+109	Glu	GLU	217	 	X	  3.32		
+112	Glu	GLU	223	 	X	  5.63		
+114	Tyr	TYR	226	 	X	 10.03		
+117	Asp	ASP	232	 	X	  3.53		
+119	Cys	CYS	234	 	X	  8.83		
+120	Glu	GLU	236	 	X	  4.32		
+121	Glu	GLU	237	 	X	  4.41		
+122	Tyr	TYR	239	 	X	 10.52		
+125	Cys	CYS	245	 	X	  8.73		
+127	Lys	LYS	247	 	X	 14.00		
+128	Glu	GLU	248	 	X	  4.25		
+130	Glu	GLU	251	 	X	  4.02		
+131	Asp	ASP	252	 	X	  3.02		
+134	Asp	ASP	257	 	X	  3.54		
+135	Tyr	TYR	258	 	X	 10.42		
+138	Glu	GLU	264	 	X	  3.83		
+139	Asp	ASP	265	 	X	  4.30		
+324	Ligand	PTR	163	 	X	 -0.07	Group have 3 ionization states; Additional pKa:   5.99 	
+
+
+Build model log:
+ResName	ResNum	InsCode	Chain	Actions
+GLN	24	 	X	sidechain position changed (flip)	
+ASN	34	 	X	sidechain position changed (flip)	
+ASN	59	 	X	sidechain position changed (flip)	
+GLN	63	 	X	sidechain position changed (flip)	
+GLN	67	 	X	sidechain position changed (flip)	
+ARG	71	 	X	sidechain position changed	
+ASN	161	 	X	sidechain position changed (flip)	
+HIS	205	 	X	sidechain position changed (flip)	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+ASN	215	 	X	sidechain position changed (flip)	
+GLN	220	 	X	sidechain position changed (flip)	
+ASN	221	 	X	sidechain position changed (flip)	
+GLU	223	 	X	sidechain position changed	
+HIS	36	 	X	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+PTR	163	 	X	removed 1 proton from atom O1P	removed 1 proton from atom O2P	
+SO4	271	 	X	removed 1 proton from atom O1	removed 1 proton from atom O4	
+SO4	272	 	X	removed 1 proton from atom O2	
+SO4	273	 	X	removed 1 proton from atom O1	removed 1 proton from atom O2	
+

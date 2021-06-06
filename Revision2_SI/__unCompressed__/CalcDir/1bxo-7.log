@@ -1,0 +1,103 @@
+-------------------------------------------------
+build model version 1808 build 1
+-------------------------------------------------
+
+Input filename: ./CalcDir/1bxo.pdb
+Random seed: 1574614077 4748
+pH for model building: 7
+
+
+Structure contains 13 broken sidechains:
+  X    18  ILE
+  X    23  ILE
+  X    73  ILE
+  X   108  ILE
+  X   129  ILE
+  X   170  ILE
+  X   211  ILE
+  X   260  ILE
+  X   272  ILE
+  X   287  ILE
+  X   293  ILE
+  X   297  ILE
+  X   301  ILE
+
+
+Ligand was found automatically:   residue 301 ILE chain X
+
+
+pKa values:
+Group	Type	ResName	ResNum	InsCode	Chain	pKa(calc)	Comment
+0	TerN	ALA	1	 	X	  7.54		
+7	Asp	ASP	14	 	X	  1.18		
+8	Glu	GLU	15	 	X	  5.07		
+9	Glu	GLU	16	 	X	  5.80		
+10	Tyr	TYR	17	 	X	 11.13		
+17	Asp	ASP	33	 	X	  3.68		
+20	Asp	ASP	38	 	X	  3.28		
+24	Glu	GLU	45	 	X	  5.60		
+29	His	HISA	54	 	X	  7.45		
+31	Tyr	TYR	57	 	X	 12.21		
+35	Lys	LYSH	64	 	X	 14.00		
+36	Glu	GLU	65	 	X	  4.09		
+38	Tyr	TYR	69	 	X	 10.57		
+43	Tyr	TYR	75	 	X	 10.07		
+44	Asp	ASP	77	 	X	  3.04		
+50	Asp	ASP	88	 	X	  2.76		
+54	His	HISA	98	 	X	  3.20		
+63	Asp	ASP	115	 	X	  3.93		
+67	Asp	ASP	119	 	X	  2.92		
+78	Asp	ASP	142	 	X	  2.29		
+80	Lys	LYSH	145	 	X	 14.00		
+84	Lys	LYSH	158	 	X	 14.00		
+85	His	HISA	159	 	X	  8.43		
+88	Tyr	TYR	165	 	X	 10.80		
+89	Asp	ASP	166	 	X	  3.14		
+90	Asp	ASP	171	 	X	  2.53		
+93	Lys	LYSH	174	 	X	 14.00		
+94	Tyr	TYR	175	 	X	 11.31		
+98	Tyr	TYR	181	 	X	 10.84		
+100	Asp	ASP	185	 	X	  2.44		
+107	Asp	ASP	196	 	X	  3.44		
+109	Tyr	TYR	198	 	X	 10.59		
+114	Asp	ASP	206	 	X	  3.45		
+116	Asp	ASP	213	 	X	  3.75		
+120	Asp	ASP	222	 	X	  3.13		
+121	Asp	ASP	223	 	X	  2.36		
+125	Tyr	TYR	229	 	X	 11.27		
+126	Tyr	TYR	230	 	X	 10.65		
+132	Asp	ASP	239	 	X	  3.42		
+135	Tyr	TYR	245	 	X	 10.78		
+136	Asp	ASP	248	 	X	  3.47		
+137	Cys	CYSH	249	 	X	  8.92		
+141	Asp	ASP	255	 	X	  3.35		
+145	Tyr	TYR	263	 	X	 11.32		
+150	Tyr	TYR	274	 	X	 10.85		
+152	Asp	ASP	279	 	X	  3.59		
+155	Cys	CYSH	283	 	X	  8.82		
+161	Asp	ASP	300	 	X	  3.83		
+162	Lys	LYSH	304	 	X	 14.00		
+165	Tyr	TYR	307	 	X	  9.96		
+166	Asp	ASP	311	 	X	  3.57		
+168	Asp	ASP	313	 	X	  3.73		
+
+
+Build model log:
+ResName	ResNum	InsCode	Chain	Actions
+GLU	15	 	X	sidechain position changed	
+ASN	29	 	X	sidechain position changed (flip)	
+ASN	31	 	X	sidechain position changed (flip)	
+ASN	58	 	X	sidechain position changed (flip)	
+ASN	84	 	X	sidechain position changed (flip)	
+GLN	103	 	X	sidechain position changed (flip)	
+GLN	111	 	X	sidechain position changed (flip)	
+GLN	150	 	X	sidechain position changed (flip)	
+LYSH	158	 	X	sidechain position changed	
+GLN	160	 	X	sidechain position changed (flip)	
+GLN	203	 	X	sidechain position changed (flip)	
+GLN	238	 	X	sidechain position changed (flip)	
+HISA	54	 	X	added 1 proton to atom NE2	
+HISA	98	 	X	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+HISA	159	 	X	added 1 proton to atom NE2	
+GLN	322	 	X	added 1 proton to atom O1	
+

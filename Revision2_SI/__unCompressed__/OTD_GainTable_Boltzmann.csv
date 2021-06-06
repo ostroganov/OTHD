@@ -1,0 +1,36 @@
+Target;target;Type;OTD with Boltzmann;Standard OTD;Difference
+Ribonuclease A;1qhc;Ribonuclease;92.9;92.9;0
+Poly(ADP-ribose) polymerase;1efy;Transferase;68;68;0
+Thymidylate synthase;1f4g;Transferase;93.9;93.9;0
+Ribonuclease T1;1rnt;Ribonuclease;97.7;97.7;0
+Acetylcholinesterase;1eve;Hydrolase;81.4;81.3;-0.1
+Heat shock protein HSP 90-alpha;1uy6;Hydrolase;81.1;81;-0.1
+Orotidine-5`-P decarboxylase;1eix;Lyase;95.3;95.3;0
+Acetylcholinesterase;1e66;Hydrolase;85.4;85.3;-0.1
+Glucocorticoid receptor;1m2z;Nuclear receptor;80.9;82.8;1.9
+Neuraminidase;2qwg;Hydrolase;93.6;93.6;0
+Cyclooxygenase-2;1cx2;Oxidoreductase;87.2;87.1;-0.1
+Thymidine kinase;1kim;Kinase;94.7;94.7;0
+Angiotensin-converting enzyme;1o86;Hydrolase;94.8;94.8;0
+Penicillopepsin;1bxo;Protease;95.3;95.2;-0.1
+Vascular endothelial growth factor receptor kinase 2;2oh4;Kinase;91.9;91.9;0
+Fibroblast growth factor receptor kinase;1fgi;Kinase;89;89;0
+Thermolysin;4tmn;Protease;97.7;97.7;0
+Progesteron receptor;1sr7;Nuclear receptor;88.1;88.1;0
+Tyrosine-protein kinase Lck;1qpe;Kinase;96.9;96.9;0
+P38 MAP kinase;1kv2;Kinase;94.9;94.9;0
+Urokinase-type plasminogen activator;1gj7;Hydrolase;96.8;96.8;0
+cAMP-dependent protein kinase;1stc;Kinase;94.1;94.1;0
+Epidermal growth factor receptor kinase;1m17;Kinase;96.2;96.2;0
+Estrogen receptor;1l2i;Nuclear receptor;93;92.9;-0.1
+Tyrosine kinase c-Src.;2src;Kinase;97;96.9;-0.1
+Protein tyrosine phosphatase 1B;1c84;Hydrolase;99.1;99;-0.1
+Mineralocorticoid receptor;2aa2;Nuclear receptor;98.6;98.5;-0.1
+Trypsin;1qbo;Protease;99.6;99.6;0
+Peroxisome proliferator activated receptor gamma;1fm9;Nuclear receptor;99.4;99.3;-0.1
+HIV-1 protease;1pro;Protease;99.1;99.1;0
+Beta-secretase;1m4h;Protease;98.2;98.2;0
+Estrogen receptor;3ert;Nuclear receptor;99.5;99.5;0
+Thrombin;1c4v;Protease;99.6;99.6;0
+Factor Xa;1fjs;Protease;99.7;99.7;0
+Oligopeptide-binding protein;1b5j;None;99.9;99.9;0

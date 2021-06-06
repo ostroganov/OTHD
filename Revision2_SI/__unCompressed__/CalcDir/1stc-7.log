@@ -1,0 +1,208 @@
+-------------------------------------------------
+build model version 1808 build 1
+-------------------------------------------------
+
+Input filename: ./CalcDir/1stc.pdb
+Random seed: 1574614155 20872
+pH for model building: 7
+
+
+Structure contains 22 broken sidechains:
+  X    32  ILE
+  X    59  ILE
+  X    71  ILE
+  X    80  ILE
+  X   121  ILE
+  X   136  ILE
+  X   149  ILE
+  X   160  ILE
+  X   166  ILE
+  X   194  ILE
+  X   195  ILE
+  X   213  ILE
+  X   229  ILE
+  X   231  ILE
+  X   235  ILE
+  X   276  ILE
+  X   288  ILE
+  X   290  ILE
+  X   300  ILE
+  X   320  ILE
+  X   323  ILE
+  X   341  ILE
+
+
+Ligand was found automatically:   residue 323 ILE chain X
+
+
+pKa values:
+Group	Type	ResName	ResNum	InsCode	Chain	pKa(calc)	Comment
+0	TerN	VAL	1	 	X	  7.88		
+1	Lys	LYSH	2	 	X	 14.00		
+2	Glu	GLU	3	 	X	  3.13		
+3	Lys	LYSH	7	 	X	 14.00		
+4	Lys	LYSH	9	 	X	 14.00		
+5	Glu	GLU	10	 	X	  4.18		
+6	Asp	ASP	11	 	X	  3.79		
+7	Lys	LYSH	14	 	X	 14.00		
+8	Lys	LYSH	15	 	X	 14.00		
+10	Glu	GLU	17	 	X	  4.47		
+15	His	HISB	25	 	X	  6.39		
+16	Asp	ASP	27	 	X	  3.44		
+18	Glu	GLU	30	 	X	  4.26		
+20	Lys	LYSH	33	 	X	 14.00		
+25	Lys	LYSH	47	 	X	 14.00		
+26	His	HISB	48	 	X	  6.69		
+27	Glu	GLU	50	 	X	  4.45		
+30	His	HISB	54	 	X	  5.36		
+31	Tyr	TYR	55	 	X	  9.46		
+32	Lys	LYSH	58	 	X	 14.00		
+33	Asp	ASP	61	 	X	  2.79		
+34	Lys	LYSH	62	 	X	 14.00		
+36	Lys	LYSH	64	 	X	 14.00		
+37	Lys	LYSH	67	 	X	 14.00		
+38	Lys	LYSH	69	 	X	 14.00		
+40	Glu	GLU	72	 	X	  4.43		
+41	His	HISB	73	 	X	  5.77		
+44	Glu	GLU	77	 	X	  4.86		
+45	Lys	LYSH	78	 	X	 14.00		
+49	Lys	LYSH	91	 	X	 14.00		
+50	Glu	GLU	93	 	X	  4.87		
+52	Lys	LYSH	97	 	X	 14.00		
+53	Asp	ASP	98	 	X	  2.80		
+57	Tyr	TYR	103	 	X	 12.29		
+58	Glu	GLU	107	 	X	  4.90		
+59	Tyr	TYR	108	 	X	 10.60		
+60	Glu	GLU	113	 	X	  3.49		
+62	His	HISB	117	 	X	  6.07		
+67	Glu	GLU	126	 	X	  3.30		
+68	His	HISB	128	 	X	  6.38		
+70	Tyr	TYR	132	 	X	 10.70		
+73	Glu	GLU	141	 	X	  3.92		
+74	Tyr	TYR	142	 	X	  9.22		
+75	His	HISB	144	 	X	  7.05		
+77	Asp	ASP	147	 	X	  3.27		
+78	Tyr	TYR	150	 	X	 11.64		
+80	Asp	ASP	152	 	X	  5.49		
+81	Lys	LYSH	154	 	X	 14.00		
+82	Glu	GLU	156	 	X	  2.57		
+84	Asp	ASP	161	 	X	  3.02		
+87	Tyr	TYR	165	 	X	 10.92		
+90	Asp	ASP	170	 	X	  5.67		
+91	Lys	LYSH	175	 	X	 14.00		
+93	Lys	LYSH	178	 	X	 14.00		
+97	TerN	LEU	183	 	X	  7.39		
+98	Cys	CYSH	184	 	X	  8.39		
+100	Glu	GLU	188	 	X	  3.30		
+101	Tyr	TYR	189	 	X	 11.23		
+102	Glu	GLU	193	 	X	  2.74		
+104	Lys	LYSH	198	 	X	 14.00		
+105	Tyr	TYR	200	 	X	  9.59		
+107	Lys	LYSH	202	 	X	 14.00		
+108	Asp	ASP	205	 	X	  3.12		
+111	Tyr	TYR	214	 	X	 10.91		
+112	Glu	GLU	215	 	X	  3.72		
+113	Tyr	TYR	220	 	X	 10.51		
+114	Asp	ASP	226	 	X	  3.13		
+117	Tyr	TYR	232	 	X	 10.66		
+118	Glu	GLU	233	 	X	  4.52		
+119	Lys	LYSH	234	 	X	 14.00		
+121	Lys	LYSH	239	 	X	 14.00		
+124	His	HISB	245	 	X	  5.98		
+127	Asp	ASP	249	 	X	  3.44		
+128	Lys	LYSH	251	 	X	 14.00		
+129	Asp	ASP	252	 	X	  3.04		
+133	Asp	ASP	261	 	X	  3.17		
+135	Lys	LYSH	264	 	X	 14.00		
+138	Lys	LYSH	270	 	X	 14.00		
+141	Asp	ASP	275	 	X	  3.35		
+142	Lys	LYSH	277	 	X	 14.00		
+144	His	HISB	279	 	X	  7.18		
+145	Lys	LYSH	280	 	X	 14.00		
+149	Asp	ASP	286	 	X	  3.09		
+151	Tyr	TYR	291	 	X	 10.56		
+154	Lys	LYSH	294	 	X	 14.00		
+155	Glu	GLU	296	 	X	  4.61		
+156	Lys	LYSH	302	 	X	 14.00		
+157	Lys	LYSH	304	 	X	 14.00		
+158	Asp	ASP	308	 	X	  1.85		
+162	Asp	ASP	313	 	X	  3.41		
+163	Asp	ASP	314	 	X	  3.78		
+164	Tyr	TYR	315	 	X	 11.19		
+165	Glu	GLU	316	 	X	  5.75		
+166	Glu	GLU	317	 	X	  2.99		
+167	Glu	GLU	318	 	X	  6.13		
+168	Glu	GLU	319	 	X	  4.11		
+170	TerN	ILE	323	 	X	  7.08		
+172	Glu	GLU	325	 	X	  4.03		
+173	Lys	LYSH	326	 	X	 14.00		
+174	Cys	CYSH	327	 	X	  8.89		
+175	Lys	LYSH	329	 	X	 14.00		
+176	Glu	GLU	330	 	X	  4.19		
+178	Glu	GLU	333	 	X	  4.20		
+181	TerN	THR	335	 	X	  7.82		
+184	Tyr	TYR	337	 	X	 10.46		
+185	Asp	ASP	339	 	X	  3.47		
+
+
+Build model quality report:
+Number of bad contacts between heavy atoms: 6
+	heavy contact	[2672] C PHE 334 X	[2673] O1 PHE 334 X	   0.997
+	heavy contact	[2672] C PHE 334 X	[2674] O2 PHE 334 X	   1.002
+	heavy contact	[2673] O1 PHE 334 X	[2674] O2 PHE 334 X	   1.880
+	heavy contact	[2803] C ALA 351 X	[2804] O1 ALA 351 X	   1.005
+	heavy contact	[2803] C ALA 351 X	[2805] O2 ALA 351 X	   0.998
+	heavy contact	[2804] O1 ALA 351 X	[2805] O2 ALA 351 X	   1.888
+Number of bad contacts between hydrogen and other atom: 15
+	hydrogen contact	[6] O VAL 1 X	[5753] H LEU 5 X	   1.527
+	hydrogen contact	[387] O HISB 48 X	[5376] H GLY 52 X	   1.537
+	hydrogen contact	[528] O VAL 66 X	[5231] H LYSH 69 X	   1.512
+	hydrogen contact	[2673] O1 PHE 334 X	[3217] H1 PHE 334 X	   0.937
+	hydrogen contact	[2673] O1 PHE 334 X	[3218] H2 PHE 334 X	   0.939
+	hydrogen contact	[2674] O2 PHE 334 X	[3219] H3 PHE 334 X	   0.020
+	hydrogen contact	[2804] O1 ALA 351 X	[3083] H1 ALA 351 X	   0.946
+	hydrogen contact	[2804] O1 ALA 351 X	[3084] H2 ALA 351 X	   0.941
+	hydrogen contact	[2805] O2 ALA 351 X	[3085] H3 ALA 351 X	   0.018
+	hydrogen contact	[3079] H21 ALA 351 X	[3085] H3 ALA 351 X	   0.947
+	hydrogen contact	[3080] H22 ALA 351 X	[3085] H3 ALA 351 X	   1.013
+	hydrogen contact	[3081] H11 ALA 351 X	[3084] H2 ALA 351 X	   1.001
+	hydrogen contact	[3082] H12 ALA 351 X	[3083] H1 ALA 351 X	   0.989
+	hydrogen contact	[3213] H21 PHE 334 X	[3219] H3 PHE 334 X	   0.946
+	hydrogen contact	[3214] H22 PHE 334 X	[3219] H3 PHE 334 X	   1.009
+
+Build model log:
+ResName	ResNum	InsCode	Chain	Actions
+GLU	17	 	X	sidechain position changed	
+ASN	18	 	X	sidechain position changed (flip)	
+HISB	48	 	X	sidechain position changed	
+ASN	53	 	X	sidechain position changed (flip)	
+LYSH	69	 	X	sidechain position changed	
+HISB	73	 	X	sidechain position changed	
+ARG	79	 	X	sidechain position changed	
+GLU	93	 	X	sidechain position changed	
+HISB	117	 	X	sidechain position changed	
+ARG	120	 	X	sidechain position changed	
+HISB	144	 	X	sidechain position changed	added 1 proton to atom ND1	
+ARG	176	 	X	sidechain position changed	
+LYSH	178	 	X	sidechain position changed	
+ARG	180	 	X	sidechain position changed	
+LYSH	234	 	X	sidechain position changed	
+LYSH	239	 	X	sidechain position changed	
+ARG	241	 	X	sidechain position changed	
+ASN	268	 	X	sidechain position changed (flip)	
+LYSH	270	 	X	sidechain position changed	
+ASN	271	 	X	sidechain position changed (flip)	
+HISB	279	 	X	sidechain position changed	added 1 proton to atom ND1	
+ARG	293	 	X	sidechain position changed	
+ASN	311	 	X	sidechain position changed (flip)	
+GLU	318	 	X	sidechain position changed	
+ASN	324	 	X	sidechain position changed (flip)	
+ARG	345	 	X	sidechain position changed	
+HISB	54	 	X	added 1 proton to atom ND1	removed 1 proton from atom NE2	
+TRP	182	 	X	added 1 proton to atom C	
+LEU	183	 	X	added 2 protons to atom N	
+VAL	322	 	X	added 1 proton to atom C	
+ILE	323	 	X	added 2 protons to atom N	
+PHE	334	 	X	added 3 protons to atom C	added 2 protons to atom O1	added 2 protons to atom O2	
+ALA	351	 	X	added 3 protons to atom C	added 2 protons to atom O1	added 2 protons to atom O2	
+

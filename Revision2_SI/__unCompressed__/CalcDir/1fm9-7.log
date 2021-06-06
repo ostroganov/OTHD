@@ -1,0 +1,244 @@
+-------------------------------------------------
+build model version 1808 build 1
+-------------------------------------------------
+
+Input filename: ./CalcDir/1fm9.pdb
+Random seed: 1574614180 13300
+pH for model building: 7
+
+
+Structure contains 35 broken sidechains:
+  A     8  ILE
+  A    41  ILE
+  A    59  ILE
+  A    72  ILE
+  A    83  ILE
+  A    91  ILE
+  A    97  ILE
+  A   118  ILE
+  A   146  ILE
+  A   201  ILE
+  A   215  ILE
+  A   220  ILE
+  B   506  ILE
+  D   249  ILE
+  D   262  ILE
+  D   275  ILE
+  D   288  ILE
+  D   293  ILE
+  D   305  ILE
+  D   307  ILE
+  D   322  ILE
+  D   329  ILE
+  D   351  ILE
+  D   352  ILE
+  D   367  ILE
+  D   412  ILE
+  D   414  ILE
+  D   417  ILE
+  D   418  ILE
+  D   432  ILE
+  D   435  ILE
+  D   471  ILE
+  D   482  ILE
+  D   498  ILE
+  E   518  ILE
+
+
+Ligand was found automatically:   residue 504 HIS chain B
+
+
+pKa values:
+Group	Type	ResName	ResNum	InsCode	Chain	pKa(calc)	Comment
+0	TerN	ASN	0	 	A	  7.48		
+2	Glu	GLU	1	 	A	  4.30		
+3	Asp	ASP	2	 	A	  3.44		
+4	Glu	GLU	6	 	A	  4.42		
+6	Glu	GLU	10	 	A	  4.05		
+7	Glu	GLU	12	 	A	  5.02		
+8	Glu	GLU	16	 	A	  3.66		
+9	Lys	LYS	18	 	A	 14.00		
+11	Glu	GLU	20	 	A	  4.16		
+13	Tyr	TYR	22	 	A	 11.02		
+14	Glu	GLU	24	 	A	  4.10		
+20	Asp	ASP	36	 	A	  2.97		
+23	Cys	CYS	42	 	A	  8.88		
+25	Asp	ASP	46	 	A	  4.88		
+26	Lys	LYS	47	 	A	 14.00		
+29	Glu	GLU	54	 	A	  3.47		
+31	Lys	LYS	57	 	A	 14.00		
+33	His	HIS	61	 	A	  8.25		
+35	Glu	GLU	64	 	A	  2.98		
+36	Asp	ASP	68	 	A	  3.59		
+37	Asp	ASP	69	 	A	  2.50		
+42	Glu	GLU	80	 	A	  3.87		
+45	His	HIS	88	 	A	  6.43		
+48	Lys	LYS	94	 	A	 14.00		
+49	Asp	ASP	95	 	A	  3.41		
+51	His	HIS	104	 	A	  5.98		
+52	His	HIS	106	 	A	  5.88		
+56	His	HIS	111	 	A	  7.36		
+58	Asp	ASP	120	 	A	  3.33		
+61	Glu	GLU	125	 	A	  5.27	Ligand interactions	
+63	Lys	LYS	129	 	A	 14.00		
+65	Asp	ASP	132	 	A	  3.39		
+67	Asp	ASP	136	 	A	  1.65		
+68	Lys	LYS	137	 	A	 14.00		
+70	Glu	GLU	139	 	A	  2.73		
+71	Cys	CYS	142	 	A	  8.80		
+74	Asp	ASP	152	 	A	  3.33		
+76	Lys	LYS	154	 	A	 14.00		
+79	Glu	GLU	161	 	A	  5.65		
+80	Glu	GLU	163	 	A	  3.50		
+82	Glu	GLU	167	 	A	  4.40		
+83	Lys	LYS	168	 	A	 14.00		
+84	Tyr	TYR	170	 	A	 10.72		
+86	Glu	GLU	174	 	A	  4.69		
+87	Tyr	TYR	176	 	A	 10.90		
+88	Cys	CYS	177	 	A	  8.75		
+89	Lys	LYS	178	 	A	 14.00		
+90	His	HIS	179	 	A	  5.96		
+91	Lys	LYS	180	 	A	 14.00		
+92	Tyr	TYR	181	 	A	 11.63		
+93	Glu	GLU	183	 	A	  4.88		
+96	Lys	LYS	190	 	A	 14.00		
+100	Lys	LYS	204	 	A	 14.00	Ligand interactions	
+101	Cys	CYS	205	 	A	  8.72		
+102	Glu	GLU	207	 	A	  5.35		
+103	His	HIS	208	 	A	  6.30		
+104	Lys	LYS	213	 	A	 14.00		
+105	Asp	ASP	217	 	A	  3.91		
+107	Asp	ASP	221	 	A	  4.31		
+109	Glu	GLU	226	 	A	  2.51		
+110	Glu	GLU	229	 	A	  3.90		
+111	Glu	GLU	233	 	D	  4.04		
+113	Asp	ASP	236	 	D	  3.73		
+115	Lys	LYS	242	 	D	 14.00		
+116	His	HIS	243	 	D	  6.26		
+117	Tyr	TYR	245	 	D	 10.65		
+118	Asp	ASP	246	 	D	  3.18		
+120	Tyr	TYR	248	 	D	 11.96		
+121	Lys	LYS	250	 	D	 14.00		
+124	Lys	LYS	256	 	D	 14.00		
+125	Lys	LYS	258	 	D	 14.00		
+128	Lys	LYS	266	 	D	 14.00		
+131	Asp	ASP	269	 	D	  3.46		
+132	Lys	LYS	270	 	D	 14.00		
+134	Tyr	TYR	276	 	D	 10.85		
+135	Asp	ASP	277	 	D	  3.25		
+138	Glu	GLU	285	 	D	  4.00		
+139	Asp	ASP	286	 	D	  3.35		
+140	Lys	LYS	287	 	D	 14.00		
+141	Lys	LYS	289	 	D	 14.00		
+142	Lys	LYS	291	 	D	 14.00		
+143	His	HIS	292	 	D	  6.28		
+146	Glu	GLU	298	 	D	  3.82		
+149	Lys	LYS	301	 	D	 14.00		
+150	Glu	GLU	302	 	D	  4.05		
+153	Cys	CYS	311	 	D	  8.75		
+157	Glu	GLU	317	 	D	  4.87		
+159	Glu	GLU	321	 	D	  2.90		
+161	Glu	GLU	324	 	D	  3.84		
+162	Tyr	TYR	325	 	D	 10.96		
+163	Lys	LYS	327	 	D	 14.00		
+166	Asp	ASP	336	 	D	  3.65		
+168	Asp	ASP	339	 	D	  3.83		
+171	Lys	LYS	345	 	D	 14.00		
+172	Tyr	TYR	346	 	D	 10.62	Ligand interactions	
+173	His	HIS	349	 	D	  6.99		
+174	Glu	GLU	350	 	D	  3.54	Ligand interactions	
+175	Tyr	TYR	353	 	D	  8.70		
+179	Lys	LYS	362	 	D	 14.00		
+180	Asp	ASP	363	 	D	  3.27		
+182	Glu	GLU	369	 	D	  4.53		
+186	Glu	GLU	377	 	D	  4.24		
+187	Lys	LYS	380	 	D	 14.00		
+190	Lys	LYS	384	 	D	 14.00		
+191	Asp	ASP	388	 	D	  3.43		
+192	Glu	GLU	391	 	D	  3.07		
+193	Lys	LYS	393	 	D	 14.00		
+194	Glu	GLU	395	 	D	  4.19		
+195	Lys	LYS	399	 	D	 14.00		
+197	Glu	GLU	404	 	D	  4.85		
+198	Asp	ASP	406	 	D	  3.13		
+199	Asp	ASP	407	 	D	  2.09		
+201	Asp	ASP	409	 	D	  3.69		
+203	Asp	ASP	422	 	D	  3.71	Ligand interactions	
+206	Lys	LYS	430	 	D	 14.00		
+207	Glu	GLU	433	 	D	  2.69		
+208	Asp	ASP	434	 	D	  3.44		
+210	Asp	ASP	437	 	D	  3.80		
+213	Glu	GLU	444	 	D	  2.84		
+215	Lys	LYS	448	 	D	 14.00		
+217	His	HIS	451	 	D	  7.50		
+218	Glu	GLU	453	 	D	  4.20		
+222	Lys	LYS	460	 	D	 14.00		
+224	Lys	LYS	464	 	D	 14.00		
+226	Asp	ASP	467	 	D	  4.29		
+230	Glu	GLU	474	 	D	  3.98		
+231	His	HIS	475	 	D	  5.89		
+234	Lys	LYS	483	 	D	 14.00		
+235	Lys	LYS	484	 	D	 14.00		
+237	Glu	GLU	486	 	D	  2.62		
+239	Asp	ASP	488	 	D	  3.68		
+241	His	HIS	492	 	D	  5.97		
+243	Glu	GLU	497	 	D	  2.95		
+244	Tyr	TYR	499	 	D	 10.05		
+245	Lys	LYS	500	 	D	 14.00		
+246	Asp	ASP	501	 	D	  3.19		
+247	TerN	HIS	504	 	B	  7.86		
+248	His	HIS	504	 	B	  6.56		
+249	Lys	LYS	505	 	B	 14.00		
+250	His	HIS	508	 	B	  6.46		
+253	Glu	GLU	513	 	B	  3.51		
+254	TerN	GLU	514	 	E	  7.86		
+255	Glu	GLU	514	 	E	  3.57		
+257	His	HIS	516	 	E	  6.61		
+258	Lys	LYS	517	 	E	 14.00		
+259	His	HIS	520	 	E	  5.94		
+262	Glu	GLU	525	 	E	  4.56		
+264	TerN	PRO	232	 	D	  6.11		
+265	Ligand	TYR	503	 	D	 10.12		
+
+
+Build model quality report:
+Number of bad contacts between heavy atoms: 1
+	heavy contact	[2062] O ASP 269 D	[2071] O LYS 270 D	   2.014
+Number of bad contacts between hydrogen and other atom: 1
+	hydrogen contact	[1713] O PHE 223 A	[6872] H MET 227 A	   1.518
+
+Build model log:
+ResName	ResNum	InsCode	Chain	Actions
+GLU	16	 	A	sidechain position changed	
+ASN	26	 	A	sidechain position changed (flip)	
+GLN	43	 	A	sidechain position changed (flip)	
+GLN	48	 	A	sidechain position changed (flip)	
+ASN	79	 	A	sidechain position changed (flip)	
+HIS	104	 	A	sidechain position changed (flip)	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+GLU	163	 	A	sidechain position changed	removed 1 proton from atom OE2	
+ARG	199	 	A	sidechain position changed	
+ARG	260	 	D	sidechain position changed	
+ASN	279	 	D	sidechain position changed (flip)	
+GLN	299	 	D	sidechain position changed	
+ASN	361	 	D	sidechain position changed (flip)	
+LYS	384	 	D	sidechain position changed	
+GLU	395	 	D	sidechain position changed	
+ASN	401	 	D	sidechain position changed (flip)	
+GLN	441	 	D	sidechain position changed	
+ASN	450	 	D	sidechain position changed (flip)	
+HIS	475	 	D	sidechain position changed (flip)	
+GLN	480	 	D	sidechain position changed (flip)	
+GLN	496	 	D	sidechain position changed (flip)	
+HIS	508	 	B	sidechain position changed (flip)	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+GLN	512	 	B	sidechain position changed (flip)	
+ARG	515	 	E	sidechain position changed	
+HIS	516	 	E	sidechain position changed (flip)	removed 1 proton from atom ND1	
+GLN	524	 	E	sidechain position changed (flip)	
+HIS	179	 	A	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+HIS	208	 	A	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+PRO	232	 	D	removed 1 proton from atom N	
+HIS	292	 	D	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+LYS	345	 	D	added 1 proton to atom NZ	
+TYR	503	 	D	added 1 proton to atom O2	
+HIS	520	 	E	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+

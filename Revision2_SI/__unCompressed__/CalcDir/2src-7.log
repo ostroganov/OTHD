@@ -1,0 +1,192 @@
+-------------------------------------------------
+build model version 1808 build 1
+-------------------------------------------------
+
+Input filename: ./CalcDir/2src.pdb
+Random seed: 1574614202 17224
+pH for model building: 7
+
+
+Structure contains 16 broken sidechains:
+  A    26  ILE
+  A    48  ILE
+  A    59  ILE
+  A    69  ILE
+  A   120  ILE
+  A   130  ILE
+  A   178  ILE
+  A   210  ILE
+  A   250  ILE
+  A   252  ILE
+  A   286  ILE
+  A   308  ILE
+  A   327  ILE
+  A   342  ILE
+  A   357  ILE
+  A   366  ILE
+
+
+Ligand was found automatically:   residue 443 PTR chain A
+
+
+pKa values:
+Group	Type	ResName	ResNum	InsCode	Chain	pKa(calc)	Comment
+0	TerN	THR	0	 	A	  7.34		
+3	Tyr	TYR	6	 	A	 10.42		
+4	Asp	ASP	7	 	A	  2.85		
+5	Tyr	TYR	8	 	A	 11.37		
+6	Glu	GLU	9	 	A	  4.25		
+10	Glu	GLU	13	 	A	  4.25		
+12	Asp	ASP	15	 	A	  1.16		
+14	Lys	LYS	19	 	A	 14.00		
+15	Lys	LYS	20	 	A	 14.00		
+16	Glu	GLU	22	 	A	  4.00		
+22	Glu	GLU	31	 	A	  4.72		
+23	Asp	ASP	33	 	A	  3.47		
+26	His	HIS	38	 	A	  5.98		
+32	Tyr	TYR	47	 	A	 10.32		
+35	Tyr	TYR	52	 	A	 10.74		
+37	Asp	ASP	57	 	A	  3.62		
+40	Glu	GLU	62	 	A	  5.30		
+41	Glu	GLU	63	 	A	  3.33		
+43	Tyr	TYR	65	 	A	 11.31		
+44	Lys	LYS	68	 	A	 14.00		
+48	Glu	GLU	73	 	A	  3.65		
+50	Glu	GLU	75	 	A	  3.85		
+53	Glu	GLU	82	 	A	  4.92		
+58	Glu	GLU	92	 	A	  4.88		
+60	Glu	GLU	94	 	A	  4.29	Ligand interactions	
+63	Lys	LYS	97	 	A	 14.00		
+64	Tyr	TYR	100	 	A	 10.34		
+65	Cys	CYS	101	 	A	  8.41	Ligand interactions	
+68	Asp	ASP	106	 	A	  3.61		
+69	Asp	ASP	108	 	A	  3.52		
+71	Lys	LYS	111	 	A	 14.00		
+73	Lys	LYS	116	 	A	 14.00		
+74	His	HIS	117	 	A	  7.08	Ligand interactions	
+75	Tyr	TYR	118	 	A	  8.26		
+76	Lys	LYS	119	 	A	 14.00	Ligand interactions	
+78	Lys	LYS	122	 	A	 14.00		
+79	Asp	ASP	124	 	A	  3.39		
+81	Tyr	TYR	129	 	A	 10.23		
+91	Tyr	TYR	145	 	A	 12.05		
+92	Tyr	TYR	146	 	A	 10.52		
+94	Lys	LYS	148	 	A	 14.00		
+95	His	HIS	149	 	A	  5.83		
+96	Asp	ASP	151	 	A	  2.97		
+97	Cys	CYS	154	 	A	  9.17		
+98	His	HIS	155	 	A	  6.30		
+102	Cys	CYS	161	 	A	  8.74		
+105	Lys	LYS	165	 	A	 14.00		
+109	Lys	LYS	173	 	A	 14.00		
+110	Asp	ASP	174	 	A	  3.38		
+112	Glu	GLU	177	 	A	  4.05		
+114	Glu	GLU	181	 	A	  4.02		
+117	Glu	GLU	186	 	A	  3.20		
+118	Lys	LYS	188	 	A	 14.00		
+120	Cys	CYS	193	 	A	  8.60		
+121	Glu	GLU	196	 	A	  3.92		
+129	Lys	LYS	211	 	A	 14.00		
+131	Lys	LYS	214	 	A	 14.00		
+134	Glu	GLU	221	 	A	  4.27		
+136	Glu	GLU	226	 	A	  4.92		
+138	Lys	LYS	231	 	A	 14.00		
+139	Lys	LYS	232	 	A	 14.00		
+141	His	HIS	235	 	A	  5.94		
+142	Glu	GLU	236	 	A	  4.01		
+143	Lys	LYS	237	 	A	 14.00		
+145	Tyr	TYR	242	 	A	 10.67		
+147	Glu	GLU	247	 	A	  3.58		
+148	Glu	GLU	248	 	A	  4.46		
+149	Tyr	TYR	251	 	A	 10.30		
+151	Glu	GLU	255	 	A	  2.89		
+152	Tyr	TYR	256	 	A	 10.39		
+154	Lys	LYS	259	 	A	 14.00		
+156	Asp	ASP	264	 	A	  2.72		
+157	Lys	LYS	267	 	A	 14.00		
+158	Glu	GLU	269	 	A	  4.14		
+160	Lys	LYS	272	 	A	 14.00		
+161	Tyr	TYR	273	 	A	 10.06		
+164	Asp	ASP	281	 	A	  3.02		
+167	Tyr	TYR	292	 	A	  9.17		
+168	Glu	GLU	294	 	A	  4.39		
+171	Tyr	TYR	298	 	A	 11.39		
+172	His	HIS	300	 	A	  6.36		
+174	Asp	ASP	302	 	A	  3.39		
+177	Glu	GLU	312	 	A	  2.91		
+179	Cys	CYS	316	 	A	  8.48		
+180	Lys	LYS	317	 	A	 14.00		
+181	Asp	ASP	320	 	A	  3.71		
+183	Glu	GLU	328	 	A	  4.38		
+184	Asp	ASP	329	 	A	  3.22		
+186	Glu	GLU	331	 	A	  4.05		
+187	Tyr	TYR	332	 	A	 10.74		
+191	Lys	LYS	339	 	A	 14.00		
+192	Lys	LYS	343	 	A	 14.00		
+195	Glu	GLU	348	 	A	  3.00		
+196	Tyr	TYR	352	 	A	 10.42		
+199	Lys	LYS	358	 	A	 14.00		
+201	Asp	ASP	360	 	A	  3.02		
+205	Glu	GLU	370	 	A	  4.18		
+208	Lys	LYS	374	 	A	 14.00		
+210	Tyr	TYR	379	 	A	 10.25		
+213	Glu	GLU	386	 	A	  5.09		
+214	Asp	ASP	389	 	A	  3.83		
+216	Glu	GLU	392	 	A	  6.73		
+218	Tyr	TYR	395	 	A	 10.56		
+220	Cys	CYS	399	 	A	  8.85		
+221	Glu	GLU	402	 	A	  4.73		
+222	Cys	CYS	403	 	A	  8.71		
+223	Glu	GLU	405	 	A	  2.86		
+225	His	HIS	408	 	A	  8.72		
+226	Asp	ASP	409	 	A	  3.81		
+227	Cys	CYS	412	 	A	  8.59		
+229	Cys	CYS	414	 	A	  8.70		
+232	Lys	LYS	417	 	A	 14.00		
+233	Glu	GLU	418	 	A	  3.60		
+234	Glu	GLU	420	 	A	  4.37		
+235	Glu	GLU	421	 	A	  3.84		
+238	Glu	GLU	426	 	A	  4.30		
+239	Tyr	TYR	427	 	A	 10.63		
+241	Glu	GLU	433	 	A	  5.40		
+242	Asp	ASP	434	 	A	  3.78		
+243	Tyr	TYR	435	 	A	 10.53		
+247	Glu	GLU	440	 	A	  5.92	Ligand interactions	
+250	Glu	GLU	447	 	A	  3.30		
+252	Ligand	PTR	443	 	A	  1.02	Group have 3 ionization states; Additional pKa:   6.62 	
+
+
+Build model log:
+ResName	ResNum	InsCode	Chain	Actions
+ARG	23	 	A	sidechain position changed	
+ASN	51	 	A	sidechain position changed (flip)	
+ASN	80	 	A	sidechain position changed (flip)	
+ASN	109	 	A	sidechain position changed (flip)	
+ARG	121	 	A	sidechain position changed	
+GLN	135	 	A	sidechain position changed (flip)	
+ASN	137	 	A	sidechain position changed (flip)	
+GLN	140	 	A	sidechain position changed (flip)	
+GLN	141	 	A	sidechain position changed (flip)	
+HIS	149	 	A	sidechain position changed (flip)	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+HIS	155	 	A	sidechain position changed (flip)	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+ARG	184	 	A	sidechain position changed	
+LYS	188	 	A	sidechain position changed	
+GLN	225	 	A	sidechain position changed (flip)	
+GLN	228	 	A	sidechain position changed (flip)	
+ARG	234	 	A	sidechain position changed	
+GLN	240	 	A	sidechain position changed (flip)	
+LYS	272	 	A	sidechain position changed	
+GLN	278	 	A	sidechain position changed (flip)	
+ASN	297	 	A	sidechain position changed (flip)	
+ARG	301	 	A	sidechain position changed	
+LYS	374	 	A	sidechain position changed	
+GLU	392	 	A	sidechain position changed	
+ARG	393	 	A	sidechain position changed	
+GLN	442	 	A	sidechain position changed (flip)	
+GLN	444	 	A	sidechain position changed (flip)	
+HIS	117	 	A	added 1 proton to atom ND1	
+GLU	294	 	A	removed 1 proton from atom OE2	
+GLU	370	 	A	removed 1 proton from atom OE2	
+PTR	443	 	A	removed 1 proton from atom O1P	removed 1 proton from atom O3P	
+LEU	449	 	A	added 1 proton to atom O1	
+

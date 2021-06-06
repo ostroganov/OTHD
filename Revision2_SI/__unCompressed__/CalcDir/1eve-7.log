@@ -1,0 +1,177 @@
+-------------------------------------------------
+build model version 1808 build 1
+-------------------------------------------------
+
+Input filename: ./CalcDir/1eve.pdb
+Random seed: 1574614182 1220
+pH for model building: 7
+
+
+Structure contains 21 broken sidechains:
+  X    25  ILE
+  X    31  ILE
+  X    97  ILE
+  X   113  ILE
+  X   182  ILE
+  X   194  ILE
+  X   208  ILE
+  X   221  ILE
+  X   261  ILE
+  X   273  ILE
+  X   285  ILE
+  X   294  ILE
+  X   317  ILE
+  X   345  ILE
+  X   383  ILE
+  X   392  ILE
+  X   399  ILE
+  X   437  ILE
+  X   442  ILE
+  X   467  ILE
+  X   501  ILE
+
+
+Ligand was found automatically:   residue 535 NAG chain X
+
+
+pKa values:
+Group	Type	ResName	ResNum	InsCode	Chain	pKa(calc)	Comment
+0	TerN	ASP	0	 	X	  8.77		
+1	Asp	ASP	0	 	X	  2.90		
+2	His	HIS	1	 	X	  5.91		
+4	Glu	GLU	3	 	X	  3.44		
+7	Lys	LYS	9	 	X	 14.00		
+9	Lys	LYS	12	 	X	 14.00		
+14	His	HIS	24	 	X	  5.64		
+16	Glu	GLU	35	 	X	  3.80		
+21	Glu	GLU	47	 	X	  4.06		
+22	Lys	LYS	49	 	X	 14.00		
+23	Lys	LYS	50	 	X	 14.00		
+29	Tyr	TYR	61	 	X	 10.95		
+34	Tyr	TYR	68	 	X	 10.96		
+35	Asp	ASP	70	 	X	  3.08		
+36	Glu	GLU	71	 	X	  4.57		
+40	Glu	GLU	80	 	X	  4.32		
+45	Glu	GLU	87	 	X	  4.24		
+47	Glu	GLU	90	 	X	  3.20		
+48	Asp	ASP	91	 	X	  3.63		
+49	Tyr	TYR	94	 	X	 10.81		
+54	Lys	LYS	105	 	X	 14.00		
+59	Tyr	TYR	114	 	X	  8.90		
+60	Tyr	TYR	119	 	X	 10.86		
+65	Asp	ASP	126	 	X	  3.92		
+66	Tyr	TYR	128	 	X	 10.24		
+68	Lys	LYS	131	 	X	 14.00		
+69	Tyr	TYR	132	 	X	 10.23		
+70	Tyr	TYR	135	 	X	 11.40		
+72	Glu	GLU	137	 	X	  3.12		
+73	Glu	GLU	138	 	X	  5.17		
+76	Tyr	TYR	146	 	X	 11.30		
+78	His	HIS	157	 	X	  6.43		
+81	Glu	GLU	161	 	X	  2.93		
+83	Asp	ASP	170	 	X	  3.52		
+88	His	HIS	179	 	X	  8.80		
+89	Asp	ASP	180	 	X	  1.15		
+92	Asp	ASP	188	 	X	  2.84		
+93	Lys	LYS	190	 	X	 14.00		
+96	Glu	GLU	197	 	X	  4.37		
+99	His	HIS	207	 	X	  6.78		
+103	Asp	ASP	215	 	X	  3.34		
+110	Cys	CYS	229	 	X	  8.92		
+114	Glu	GLU	238	 	X	  3.56		
+118	Glu	GLU	245	 	X	  3.66		
+125	Asp	ASP	257	 	X	  3.36		
+126	Glu	GLU	258	 	X	  4.76		
+127	Glu	GLU	259	 	X	  3.75		
+128	His	HIS	262	 	X	  6.55		
+130	Glu	GLU	266	 	X	  4.89		
+131	Lys	LYS	267	 	X	 14.00		
+132	Lys	LYS	268	 	X	 14.00		
+134	Glu	GLU	271	 	X	  4.09		
+135	Asp	ASP	274	 	X	  3.78		
+136	Glu	GLU	276	 	X	  5.15		
+139	Asp	ASP	283	 	X	  3.50		
+143	Asp	ASP	295	 	X	  3.60		
+144	Glu	GLU	297	 	X	  5.41		
+147	Glu	GLU	304	 	X	  4.52		
+152	Lys	LYS	313	 	X	 14.00		
+153	Lys	LYS	314	 	X	 14.00		
+157	Lys	LYS	323	 	X	 14.00		
+158	Asp	ASP	324	 	X	  4.65		
+159	Glu	GLU	325	 	X	  3.68		
+161	Tyr	TYR	332	 	X	 11.80		
+163	Lys	LYS	339	 	X	 14.00		
+164	Asp	ASP	340	 	X	  3.16		
+166	Glu	GLU	342	 	X	  3.84		
+168	Lys	LYS	344	 	X	 14.00		
+171	Glu	GLU	348	 	X	  3.95		
+172	Asp	ASP	349	 	X	  3.50		
+174	Lys	LYS	355	 	X	 14.00		
+176	His	HIS	360	 	X	  5.98		
+178	Asp	ASP	363	 	X	  3.29		
+179	Asp	ASP	367	 	X	  3.86		
+182	Tyr	TYR	373	 	X	 10.37		
+184	Asp	ASP	375	 	X	  3.54		
+186	Asp	ASP	378	 	X	  3.46		
+187	Asp	ASP	379	 	X	  3.03		
+190	Lys	LYS	384	 	X	 14.00		
+193	Asp	ASP	387	 	X	  3.41		
+194	Asp	ASP	390	 	X	  4.78		
+195	Asp	ASP	391	 	X	  3.46		
+196	Asp	ASP	395	 	X	  3.09		
+197	His	HIS	396	 	X	  5.86		
+199	His	HIS	404	 	X	  6.85		
+201	Lys	LYS	408	 	X	 14.00		
+202	Tyr	TYR	409	 	X	  9.22		
+204	Lys	LYS	411	 	X	 14.00		
+206	Tyr	TYR	417	 	X	 11.04		
+207	Tyr	TYR	419	 	X	 11.66		
+209	His	HIS	423	 	X	  7.01		
+214	Glu	GLU	432	 	X	  3.93		
+216	His	HIS	438	 	X	  6.82		
+217	Tyr	TYR	440	 	X	  8.56		
+218	Glu	GLU	441	 	X	  5.22		
+219	Glu	GLU	443	 	X	  5.46		
+220	Lys	LYS	452	 	X	 14.00		
+221	Glu	GLU	453	 	X	  3.89		
+222	Tyr	TYR	456	 	X	 11.25		
+224	Glu	GLU	459	 	X	  4.25		
+225	Glu	GLU	460	 	X	  2.58		
+226	Glu	GLU	461	 	X	  4.32		
+230	His	HIS	469	 	X	  9.19		
+231	Tyr	TYR	470	 	X	 10.58		
+234	Lys	LYS	476	 	X	 14.00		
+238	Glu	GLU	482	 	X	  3.73		
+239	His	HIS	484	 	X	  6.19		
+242	Glu	GLU	487	 	X	  4.23		
+244	Lys	LYS	489	 	X	 14.00		
+248	Lys	LYS	496	 	X	 14.00		
+249	Glu	GLU	497	 	X	  3.64		
+251	Lys	LYS	499	 	X	 14.00		
+252	Asp	ASP	502	 	X	  3.31		
+255	Glu	GLU	506	 	X	  3.44		
+256	Lys	LYS	509	 	X	 14.00		
+257	His	HIS	511	 	X	  6.69		
+265	Lys	LYS	528	 	X	 14.00		
+
+
+Build model log:
+ResName	ResNum	InsCode	Chain	Actions
+HIS	1	 	X	sidechain position changed (flip)	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+HIS	24	 	X	sidechain position changed (flip)	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+ASN	63	 	X	sidechain position changed (flip)	
+GLN	66	 	X	sidechain position changed (flip)	
+GLN	72	 	X	sidechain position changed (flip)	
+HIS	157	 	X	sidechain position changed (flip)	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+ASN	251	 	X	sidechain position changed (flip)	
+HIS	262	 	X	sidechain position changed (flip)	
+GLU	348	 	X	sidechain position changed	
+GLN	517	 	X	sidechain position changed (flip)	
+GLU	197	 	X	removed 1 proton from atom OE2	
+GLU	325	 	X	removed 1 proton from atom OE2	
+HIS	396	 	X	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+HIS	438	 	X	added 1 proton to atom ND1	removed 1 proton from atom NE2	
+GLU	460	 	X	removed 1 proton from atom OE2	
+HIS	484	 	X	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+HIS	511	 	X	removed 1 proton from atom ND1	
+

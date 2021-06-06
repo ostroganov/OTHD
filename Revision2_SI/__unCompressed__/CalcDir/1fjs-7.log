@@ -1,0 +1,158 @@
+-------------------------------------------------
+build model version 1808 build 1
+-------------------------------------------------
+
+Input filename: ./CalcDir/1fjs.pdb
+Random seed: 1574614131 2088
+pH for model building: 7
+
+
+Structure contains 14 broken sidechains:
+  X     0  ILE
+  X    18  ILE
+  X    30  ILE
+  X    36  ILE
+  X    74  ILE
+  X    88  ILE
+  X    97  ILE
+  X   125  ILE
+  X   162  ILE
+  X   163  ILE
+  X   201  ILE
+  X   216  ILE
+  X   227  ILE
+  X   272  ILE
+
+
+Ligand was found automatically:   residue 291 GOL chain X
+
+
+pKa values:
+Group	Type	ResName	ResNum	InsCode	Chain	pKa(calc)	Comment
+0	TerN	ILE	0	 	X	  7.65		
+2	Glu	GLU	5	 	X	  4.03		
+3	Lys	LYS	7	 	X	 14.00		
+4	Asp	ASP	8	 	X	  3.48		
+5	Glu	GLU	10	 	X	  3.56		
+9	Glu	GLU	20	 	X	  2.83		
+10	Glu	GLU	21	 	X	  5.12		
+12	Glu	GLU	23	 	X	  7.38		
+13	Cys	CYS	26	 	X	  9.13		
+16	Glu	GLU	33	 	X	  4.94		
+17	Tyr	TYR	35	 	X	 10.49		
+19	His	HIS	41	 	X	  8.49		
+20	Cys	CYS	42	 	X	  9.23		
+21	Tyr	TYR	44	 	X	  9.09		
+23	Lys	LYS	47	 	X	 14.00		
+25	Lys	LYS	50	 	X	 14.00		
+27	Asp	ASP	55	 	X	  3.31		
+31	Glu	GLU	59	 	X	  3.50		
+33	Glu	GLU	61	 	X	  4.21		
+34	Glu	GLU	62	 	X	  3.10		
+35	Glu	GLU	65	 	X	  4.41		
+36	His	HIS	68	 	X	  6.03		
+37	Glu	GLU	69	 	X	  3.60		
+38	Glu	GLU	71	 	X	  3.80		
+39	Lys	LYS	75	 	X	 14.00	Ligand interactions	
+40	His	HIS	76	 	X	  5.66	Ligand interactions	
+44	Lys	LYS	81	 	X	 14.00		
+45	Glu	GLU	82	 	X	  4.41		
+47	Tyr	TYR	84	 	X	 10.50		
+48	Asp	ASP	85	 	X	  3.20		
+49	Asp	ASP	87	 	X	  0.74		
+51	Lys	LYS	94	 	X	 14.00		
+56	Cys	CYS	107	 	X	  9.03		
+57	Glu	GLU	110	 	X	  4.75	Ligand interactions	
+59	Asp	ASP	112	 	X	  3.60	Ligand interactions	
+61	Glu	GLU	115	 	X	  1.75	Ligand interactions	
+66	Lys	LYS	122	 	X	 14.00		
+71	His	HIS	133	 	X	  6.14		
+72	Glu	GLU	134	 	X	  2.38		
+73	Lys	LYS	135	 	X	 14.00		
+79	Lys	LYS	143	 	X	 14.00		
+80	Glu	GLU	146	 	X	  3.57		
+81	Tyr	TYR	149	 	X	 11.21	Ligand interactions	
+82	Asp	ASP	151	 	X	  1.79		
+86	Cys	CYS	155	 	X	  8.91		
+87	Lys	LYS	156	 	X	 14.00		
+94	Cys	CYS	169	 	X	  9.02		
+95	Tyr	TYR	172	 	X	 10.97		
+96	Asp	ASP	173	 	X	  2.78		
+98	Lys	LYS	175	 	X	 14.00		
+100	Glu	GLU	177	 	X	  3.66		
+101	Asp	ASP	178	 	X	  3.42		
+102	Cys	CYS	180	 	X	  8.38		
+104	Asp	ASP	183	 	X	  2.93		
+106	His	HIS	188	 	X	  6.47		
+109	Lys	LYS	193	 	X	 14.00		
+110	Asp	ASP	194	 	X	  3.41		
+112	Tyr	TYR	196	 	X	 10.30		
+116	Glu	GLU	206	 	X	  3.01		
+117	Cys	CYS	208	 	X	  8.56		
+119	Lys	LYS	211	 	X	 14.00		
+120	Lys	LYS	213	 	X	 14.00		
+121	Tyr	TYR	214	 	X	 11.99		
+122	Tyr	TYR	217	 	X	 11.47		
+124	Lys	LYS	219	 	X	 14.00	Ligand interactions	
+126	Lys	LYS	225	 	X	 14.00	Ligand interactions	
+128	Asp	ASP	228	 	X	  3.52	Ligand interactions	
+131	Lys	LYS	232	 	X	 14.00		
+133	TerN	LYS	234	 	X	  7.42		
+134	Lys	LYS	234	 	X	 14.00		
+135	Cys	CYS	236	 	X	  9.12	Ligand interactions	
+137	Asp	ASP	239	 	X	  3.26		
+139	Asp	ASP	242	 	X	  3.35		
+140	Asp	ASP	244	 	X	  2.90		
+142	Cys	CYS	247	 	X	  9.00	Ligand interactions	
+143	His	HIS	248	 	X	  6.15	Ligand interactions	
+144	Glu	GLU	249	 	X	  4.24	Ligand interactions	
+145	Glu	GLU	250	 	X	  4.53		
+150	Cys	CYS	258	 	X	  9.01		
+152	Tyr	TYR	262	 	X	 10.64	Ligand interactions	
+154	Asp	ASP	266	 	X	  3.48		
+156	Lys	LYS	269	 	X	 14.00		
+157	Cys	CYS	271	 	X	  9.11		
+159	Tyr	TYR	277	 	X	 11.05	Ligand interactions	
+160	Cys	CYS	279	 	X	  8.95		
+161	Lys	LYS	281	 	X	 14.00	Ligand interactions	
+164	Glu	GLU	285	 	X	  5.19	Ligand interactions	
+328	Cl	CL	287	 	X	  1.21		
+
+
+Build model quality report:
+Number of bad contacts between heavy atoms: 2
+	heavy contact	[1390] SG CYS 180 X	[1597] SG CYS 208 X	   2.758
+	heavy contact	[2180] CA CA 286 X	[2230] O HOH 309 X	   1.828
+Number of bad contacts between hydrogen and other atom: 1
+	hydrogen contact	[2230] O HOH 309 X	[2940] HA4 CA 286 X	   1.332
+
+Build model log:
+ResName	ResNum	InsCode	Chain	Actions
+GLN	14	 	X	sidechain position changed (flip)	
+GLU	21	 	X	sidechain position changed	
+ASN	22	 	X	sidechain position changed (flip)	
+GLN	121	 	X	sidechain position changed (flip)	
+ASN	153	 	X	sidechain position changed (flip)	
+GLN	176	 	X	sidechain position changed (flip)	
+ARG	191	 	X	sidechain position changed	
+LYS	219	 	X	sidechain position changed	
+LYS	225	 	X	sidechain position changed	
+ASN	252	 	X	sidechain position changed (flip)	
+GLU	23	 	X	added 1 proton to atom OE1	
+CYS	26	 	X	added 1 proton to atom SG	
+CYS	42	 	X	added 1 proton to atom SG	
+HIS	68	 	X	removed 1 proton from atom ND1	
+HIS	133	 	X	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+CYS	155	 	X	added 1 proton to atom SG	
+CYS	169	 	X	added 1 proton to atom SG	
+CYS	180	 	X	added 1 proton to atom SG	
+HIS	188	 	X	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+CYS	208	 	X	added 1 proton to atom SG	
+CYS	236	 	X	added 1 proton to atom SG	
+CYS	247	 	X	added 1 proton to atom SG	
+HIS	248	 	X	removed 1 proton from atom NE2	
+CYS	258	 	X	added 1 proton to atom SG	
+CYS	271	 	X	added 1 proton to atom SG	
+CA	286	 	X	added 4 protons to atom CA	
+HOH	309	 	X	added 1 proton to atom O	
+

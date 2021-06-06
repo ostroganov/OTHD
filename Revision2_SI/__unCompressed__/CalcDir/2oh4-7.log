@@ -1,0 +1,170 @@
+-------------------------------------------------
+build model version 1808 build 1
+-------------------------------------------------
+
+Input filename: ./CalcDir/2oh4.pdb
+Random seed: 1574614313 7468
+pH for model building: 7
+
+
+Structure contains 14 broken sidechains:
+  A    33  ILE
+  A    40  ILE
+  A    72  ILE
+  A    74  ILE
+  A    76  ILE
+  A   133  ILE
+  A   152  ILE
+  A   161  ILE
+  A   171  ILE
+  A   180  ILE
+  A   204  ILE
+  A   211  ILE
+  A   225  ILE
+  A   238  ILE
+
+
+Ligand was found automatically:   residue 300 SO4 chain A
+
+
+pKa values:
+Group	Type	ResName	ResNum	InsCode	Chain	pKa(calc)	Comment
+0	TerN	HIS	0	 	A	  7.39		
+1	His	HIS	0	 	A	  6.05		
+2	Cys	CYS	1	 	A	  9.04		
+3	Glu	GLU	2	 	A	  3.66		
+5	Tyr	TYR	6	 	A	 11.69		
+6	Asp	ASP	7	 	A	  3.36		
+8	Lys	LYS	10	 	A	 14.00		
+10	Glu	GLU	12	 	A	  3.07		
+12	Asp	ASP	16	 	A	  3.59		
+15	Lys	LYS	22	 	A	 14.00		
+18	Glu	GLU	34	 	A	  4.25		
+19	Asp	ASP	36	 	A	  3.61		
+20	Asp	ASP	41	 	A	  2.75		
+21	Lys	LYS	42	 	A	 14.00		
+24	Cys	CYS	46	 	A	  9.00		
+27	Lys	LYS	52	 	A	 14.00		
+28	Lys	LYS	55	 	A	 14.00	Ligand interactions	
+29	Glu	GLU	56	 	A	  4.45		
+31	His	HIS	60	 	A	  5.76		
+33	Glu	GLU	62	 	A	  3.50		
+34	His	HIS	63	 	A	  6.36		
+37	Glu	GLU	69	 	A	  4.23		
+38	Lys	LYS	71	 	A	 14.00		
+39	His	HIS	75	 	A	  5.61		
+40	His	HIS	78	 	A	  6.32		
+41	His	HIS	79	 	A	  5.76		
+44	Cys	CYS	89	 	A	  9.66		
+46	Lys	LYS	91	 	A	 14.00		
+47	Glu	GLU	101	 	A	  3.97		
+48	Cys	CYS	103	 	A	  8.51		
+49	Lys	LYS	104	 	A	 14.00		
+53	Tyr	TYR	111	 	A	 10.23		
+56	Lys	LYS	115	 	A	 14.00		
+59	Glu	GLU	118	 	A	  3.92		
+60	Tyr	TYR	122	 	A	 11.13		
+61	TerN	TYR	123	 	A	  7.39		
+62	Tyr	TYR	123	 	A	 10.43		
+63	Lys	LYS	124	 	A	 14.00		
+64	Asp	ASP	125	 	A	  3.36		
+66	Glu	GLU	130	 	A	  5.81		
+67	His	HIS	131	 	A	  5.79		
+68	Cys	CYS	134	 	A	  8.88		
+69	Tyr	TYR	135	 	A	 10.26		
+72	Lys	LYS	141	 	A	 14.00		
+73	Glu	GLU	144	 	A	  3.62		
+76	Lys	LYS	150	 	A	 14.00		
+77	Cys	CYS	151	 	A	  8.61		
+78	His	HIS	153	 	A	  6.31		
+80	Asp	ASP	155	 	A	  3.48		
+84	Glu	GLU	165	 	A	  2.61		
+85	Lys	LYS	166	 	A	 14.00		
+87	Lys	LYS	170	 	A	 14.00		
+88	Cys	CYS	172	 	A	  8.66		
+89	Asp	ASP	173	 	A	  3.96		
+91	Asp	ASP	179	 	A	  3.23		
+92	Lys	LYS	182	 	A	 14.00	Ligand interactions	
+93	Asp	ASP	183	 	A	  4.91	Ligand interactions	
+94	Asp	ASP	185	 	A	  4.86	Ligand interactions	
+96	Lys	LYS	189	 	A	 14.00		
+97	Asp	ASP	191	 	A	  3.06		
+99	Lys	LYS	197	 	A	 14.00		
+101	Glu	GLU	202	 	A	  2.66		
+103	Asp	ASP	206	 	A	  3.38		
+105	Tyr	TYR	209	 	A	 10.24		
+109	Asp	ASP	214	 	A	  2.99		
+113	Glu	GLU	224	 	A	  3.61		
+116	Tyr	TYR	233	 	A	 11.18		
+117	Lys	LYS	237	 	A	 14.00		
+118	Asp	ASP	239	 	A	  3.21		
+119	Glu	GLU	240	 	A	  4.40		
+120	Glu	GLU	241	 	A	  3.69		
+121	Cys	CYS	243	 	A	  9.04		
+124	Lys	LYS	247	 	A	 14.00		
+125	Glu	GLU	248	 	A	  4.60		
+129	Asp	ASP	256	 	A	  3.51		
+130	Tyr	TYR	257	 	A	 10.54		
+133	Glu	GLU	261	 	A	  3.81		
+134	Tyr	TYR	263	 	A	 10.89		
+137	Asp	ASP	268	 	A	  3.30		
+138	Cys	CYS	269	 	A	  8.85		
+140	His	HIS	271	 	A	  6.94		
+141	Glu	GLU	273	 	A	  3.84		
+147	Glu	GLU	282	 	A	  3.69		
+148	Glu	GLU	285	 	A	  6.01		
+149	His	HIS	286	 	A	  6.69		
+365	Ligand	PTR	181	 	A	  0.16	Group have 3 ionization states; Additional pKa:   6.19 	
+366	Ligand	PTR	186	 	A	  1.49	Group have 3 ionization states; Additional pKa:   6.86 	
+367	Ligand	ASP	298	 	A	  4.22		
+
+
+Build model quality report:
+Number of bad contacts between heavy atoms: 2
+	heavy contact	[745] CG1 ILE 99 A	[746] CD1 ILE 99 A	   1.508
+	heavy contact	[746] CD1 ILE 99 A	[751] CD ILE 99 A	   0.078
+Number of bad contacts between hydrogen and other atom: 28
+	hydrogen contact	[745] CG1 ILE 99 A	[4714] HD11 ILE 99 A	   1.270
+	hydrogen contact	[745] CG1 ILE 99 A	[4715] HD12 ILE 99 A	   1.243
+	hydrogen contact	[746] CD1 ILE 99 A	[747] HD11 ILE 99 A	   1.000
+	hydrogen contact	[746] CD1 ILE 99 A	[748] HD12 ILE 99 A	   0.999
+	hydrogen contact	[746] CD1 ILE 99 A	[749] HD13 ILE 99 A	   1.000
+	hydrogen contact	[746] CD1 ILE 99 A	[4708] HD1 ILE 99 A	   1.006
+	hydrogen contact	[746] CD1 ILE 99 A	[4709] HD2 ILE 99 A	   0.954
+	hydrogen contact	[746] CD1 ILE 99 A	[4710] HD3 ILE 99 A	   1.072
+	hydrogen contact	[747] HD11 ILE 99 A	[751] CD ILE 99 A	   1.017
+	hydrogen contact	[747] HD11 ILE 99 A	[4708] HD1 ILE 99 A	   0.299
+	hydrogen contact	[747] HD11 ILE 99 A	[4716] HD13 ILE 99 A	   0.110
+	hydrogen contact	[748] HD12 ILE 99 A	[751] CD ILE 99 A	   1.041
+	hydrogen contact	[748] HD12 ILE 99 A	[4709] HD2 ILE 99 A	   0.177
+	hydrogen contact	[748] HD12 ILE 99 A	[4715] HD12 ILE 99 A	   1.003
+	hydrogen contact	[748] HD12 ILE 99 A	[4717] HD14 ILE 99 A	   0.862
+	hydrogen contact	[749] HD13 ILE 99 A	[751] CD ILE 99 A	   0.924
+	hydrogen contact	[749] HD13 ILE 99 A	[4710] HD3 ILE 99 A	   0.201
+	hydrogen contact	[749] HD13 ILE 99 A	[4714] HD11 ILE 99 A	   0.917
+	hydrogen contact	[749] HD13 ILE 99 A	[4717] HD14 ILE 99 A	   1.010
+	hydrogen contact	[751] CD ILE 99 A	[4714] HD11 ILE 99 A	   0.952
+	hydrogen contact	[751] CD ILE 99 A	[4715] HD12 ILE 99 A	   1.070
+	hydrogen contact	[751] CD ILE 99 A	[4716] HD13 ILE 99 A	   1.009
+	hydrogen contact	[751] CD ILE 99 A	[4717] HD14 ILE 99 A	   0.978
+	hydrogen contact	[4708] HD1 ILE 99 A	[4716] HD13 ILE 99 A	   0.191
+	hydrogen contact	[4709] HD2 ILE 99 A	[4715] HD12 ILE 99 A	   1.003
+	hydrogen contact	[4709] HD2 ILE 99 A	[4717] HD14 ILE 99 A	   0.880
+	hydrogen contact	[4710] HD3 ILE 99 A	[4714] HD11 ILE 99 A	   0.956
+	hydrogen contact	[4710] HD3 ILE 99 A	[4717] HD14 ILE 99 A	   0.982
+
+Build model log:
+ResName	ResNum	InsCode	Chain	Actions
+HIS	0	 	A	sidechain position changed (flip)	
+HIS	78	 	A	sidechain position changed (flip)	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+ARG	113	 	A	sidechain position changed	
+HIS	286	 	A	sidechain position changed (flip)	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+GLN	292	 	A	sidechain position changed (flip)	
+HIS	60	 	A	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+HIS	63	 	A	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+ILE	99	 	A	added 1 proton to atom CG1	added 2 protons to atom CD1	added 2 protons to atom CD	
+PTR	181	 	A	removed 1 proton from atom O1P	removed 1 proton from atom O3P	
+PTR	186	 	A	removed 1 proton from atom O1P	
+SO4	299	 	A	removed 1 proton from atom O1	removed 1 proton from atom O2	
+SO4	300	 	A	removed 1 proton from atom O2	removed 1 proton from atom O4	
+

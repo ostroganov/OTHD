@@ -1,0 +1,120 @@
+-------------------------------------------------
+build model version 1808 build 1
+-------------------------------------------------
+
+Input filename: ./CalcDir/1qhc.pdb
+Random seed: 1574614132 14168
+pH for model building: 7
+
+
+Structure contains 6 broken sidechains:
+  X    80  ILE
+  X   105  ILE
+  X   106  ILE
+  X   204  ILE
+  X   229  ILE
+  X   230  ILE
+
+
+Ligand was found automatically:   residue 249 PUA chain X
+
+
+pKa values:
+Group	Type	ResName	ResNum	InsCode	Chain	pKa(calc)	Comment
+0	TerN	LYS	0	 	X	  7.26		
+1	Lys	LYS	0	 	X	 14.00		
+2	Glu	GLU	1	 	X	  4.76		
+4	Lys	LYS	6	 	X	 14.00		
+5	Glu	GLU	8	 	X	  4.86		
+8	His	HIS	11	 	X	  6.30		
+9	Asp	ASP	13	 	X	  2.62		
+18	Tyr	TYR	24	 	X	 11.69		
+21	Lys	LYS	30	 	X	 14.00		
+26	Lys	LYS	36	 	X	 14.00		
+27	Asp	ASP	37	 	X	  3.29		
+29	Lys	LYS	40	 	X	 14.00		
+32	His	HIS	47	 	X	  6.35		
+33	Glu	GLU	48	 	X	  4.52		
+35	Asp	ASP	52	 	X	  3.47		
+39	Lys	LYS	60	 	X	 14.00		
+41	Lys	LYS	65	 	X	 14.00		
+46	Tyr	TYR	72	 	X	 10.77		
+49	Tyr	TYR	75	 	X	 10.51		
+54	Asp	ASP	82	 	X	  2.81		
+56	Glu	GLU	85	 	X	  4.07		
+60	Lys	LYS	90	 	X	 14.00		
+61	Tyr	TYR	91	 	X	 10.86		
+63	Tyr	TYR	96	 	X	 11.28		
+64	Lys	LYS	97	 	X	 14.00		
+69	Lys	LYS	103	 	X	 14.00		
+70	His	HIS	104	 	X	  6.07		
+71	Glu	GLU	110	 	X	  4.51		
+73	Tyr	TYR	114	 	X	 10.98		
+74	His	HIS	118	 	X	  6.26		
+75	Asp	ASP	120	 	X	  3.13		
+77	TerN	LYS	124	 	X	  7.29		
+78	Lys	LYS	124	 	X	 14.00	Ligand interactions	
+79	Glu	GLU	125	 	X	  2.94	Ligand interactions	
+81	Lys	LYS	130	 	X	 14.00	Ligand interactions	
+82	Glu	GLU	132	 	X	  4.92		
+85	His	HIS	135	 	X	  6.49	Ligand interactions	
+86	Asp	ASP	137	 	X	  3.63		
+95	Tyr	TYR	148	 	X	 10.52		
+98	Lys	LYS	154	 	X	 14.00		
+103	Lys	LYS	160	 	X	 14.00		
+104	Asp	ASP	161	 	X	  3.03		
+106	Lys	LYS	164	 	X	 14.00	Ligand interactions	
+109	His	HIS	171	 	X	  5.80		
+110	Glu	GLU	172	 	X	  4.67		
+112	Asp	ASP	176	 	X	  3.54		
+116	Lys	LYS	184	 	X	 14.00		
+118	Lys	LYS	189	 	X	 14.00	Ligand interactions	
+123	Tyr	TYR	196	 	X	 11.27		
+126	Tyr	TYR	199	 	X	 10.19		
+131	Asp	ASP	206	 	X	  3.08		
+133	Glu	GLU	209	 	X	  3.87		
+137	Lys	LYS	214	 	X	 14.00		
+138	Tyr	TYR	215	 	X	 11.43		
+140	Tyr	TYR	220	 	X	 11.11		
+141	Lys	LYS	221	 	X	 14.00		
+146	Lys	LYS	227	 	X	 14.00		
+147	His	HIS	228	 	X	  6.09		
+148	Glu	GLU	234	 	X	  4.40	Ligand interactions	
+150	Tyr	TYR	238	 	X	 11.13	Ligand interactions	
+151	His	HIS	242	 	X	  6.80	Ligand interactions	
+152	Asp	ASP	244	 	X	  3.11	Ligand interactions	
+291	Ligand	PUA	249	 	X	  0.53	Group have 3 ionization states; Additional pKa:   5.95 	
+292	Ligand	PUA	249	 	X	 -5.22	Group have 3 ionization states; Additional pKa:   1.16 	
+293	Ligand	PUA	249	 	X	  1.24	Group have 3 ionization states; Additional pKa:   6.42 	
+294	Ligand	PUA	249	 	X	 -7.35	Group have 3 ionization states; Additional pKa:   2.82 	
+
+
+Build model quality report:
+Number of bad contacts between hydrogen and other atom: 1
+	hydrogen contact	[98] O HIS 11 X	[3845] H VAL 46 X	   1.492
+
+Build model log:
+ResName	ResNum	InsCode	Chain	Actions
+HIS	11	 	X	sidechain position changed (flip)	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+ASN	33	 	X	sidechain position changed (flip)	
+ARG	38	 	X	sidechain position changed	
+HIS	47	 	X	sidechain position changed (flip)	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+GLN	54	 	X	sidechain position changed	
+GLN	73	 	X	sidechain position changed (flip)	
+LYS	97	 	X	sidechain position changed	
+GLN	100	 	X	sidechain position changed (flip)	
+ASN	102	 	X	sidechain position changed (flip)	
+HIS	104	 	X	sidechain position changed (flip)	removed 1 proton from atom ND1	
+HIS	135	 	X	sidechain position changed (flip)	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+ASN	147	 	X	sidechain position changed (flip)	
+HIS	171	 	X	sidechain position changed (flip)	removed 1 proton from atom ND1	added 1 proton to atom NE2	
+GLN	178	 	X	sidechain position changed (flip)	
+GLN	224	 	X	sidechain position changed (flip)	
+ASN	226	 	X	sidechain position changed (flip)	
+HIS	118	 	X	removed 1 proton from atom ND1	
+VAL	123	 	X	added 1 proton to atom O1	
+HIS	228	 	X	removed 1 proton from atom ND1	
+HIS	242	 	X	removed 1 proton from atom ND1	
+VAL	247	 	X	added 1 proton to atom O1	
+PUA	249	 	X	removed 1 proton from atom O3D	removed 1 proton from atom O1D	removed 1 proton from atom O1A	removed 1 proton from atom O2B	removed 1 proton from atom O2G	removed 1 proton from atom O3G	
+
