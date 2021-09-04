@@ -1,0 +1,1 @@
+..\build_model\build_model.exe -set ..\build_model\protonation.set  -pH 7.8 -f  "54 - INHA\2h7l.pdb" -omm "54 - INHA"\protein_OTH.pdb

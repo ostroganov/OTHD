@@ -1,0 +1,4 @@
+
+Initializing protonation app [function appBuildModel::init]
+Loading sample protein [function appBuildModel::_load_protein]
+Fatal Error : Cannot open file "54 - INHA\2h7l.pdb"
